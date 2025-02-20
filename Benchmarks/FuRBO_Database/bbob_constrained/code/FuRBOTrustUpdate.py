@@ -233,7 +233,7 @@ def multinormal_radius(state,              # FuRBO state
             feasible_samples_id = torch.where(samples_cc <= 0)[0]
             infeasible_samples_id = torch.where(samples_cc > 0)[0]
             
-            feasible_cc = samples_yy[feasible_samples_id]
+            feasible_cc = -1 * samples_yy[feasible_samples_id]
             infeasible_cc = samples_cc[infeasible_samples_id]
             
             feasible_sorted, feasible_sorted_id = torch.sort(feasible_cc)

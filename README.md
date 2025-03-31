@@ -20,7 +20,7 @@ FuRBO is a Bayesian optimization for high-dimensional black-box functions under 
 	- if the last n_f optimum candidates are infeasible or do not improve objective -> shrink multinormal distribution
 9. Repeat steps 2 - 8 until the stopping criterion is met
 
-*For further details, a paper will soon be published.*
+![alt text](https://github.com/paoloascia/FuRBO/blob/main/Figures/workflow/graphical_abstract_furbo.png)
 
 ## Requirements
 The following libraries are required to set up and run FuRBO. The algorithm has been tested only with the version of the libraries listed below.
@@ -29,6 +29,30 @@ The following libraries are required to set up and run FuRBO. The algorithm has 
 - matplotlib (3.8.4)
 - numpy (1.24.3)
 - pytorch (2.3.0)
+
+## How to run
+To run the optimization, download the repository from [here](https://anonymous.4open.science/api/repo/FuRBO/zip) FuRBO and run `FuRBO_restart.py` to optimize with restarts or `FuRBO_single.py` to optimize without restarts.
+
+1) Create a virtual environment
+```bash
+conda create -n FuRBO python=3.10
+conda activate FuRBO
+```
+2) Extract the repository and install the required packages
+```bash
+cd FuRBO_repo
+pip install -r requirements.txt
+```
+3) Run the optimization loop
+```bash
+cd FuRBO
+python FuRBO_restart.py
+```
+or to run without restarts:
+```bash
+cd FuRBO
+python FuRBO_single.py
+```
 
 ## Repository Structure
 The repository is structured as follows:
@@ -45,18 +69,28 @@ The repository is structured as follows:
 └───Tutorials
     |       └───`FuRBO_restart.ipynb`: Jupiter Notebook on how to set up FuRBO with restarts
     |       └───`FuRBO_single.ipynb`: Jupiter Notebook on how to set up FuRBO without restarts
-└───Benchmarks
-    |        └───SCBO: comparison between FuRBO and SCBO on the BBOB-Constrained benchmark
+└───Tests
+    |   └───ablation_study: folder with the raw data to plot the ablation study performed
+    |       |             └───batch_size: folder with raw data for the ablation study on the batch size. The following batches are evaluated: q=1, 1D, 2D, 3D, 4D, 5D
+    |       |             └───doe_size: folder with raw data for the ablation study on the initial sample set size. The following sizes are evaluated: doe=1D, 3D, 5D, 10D
+    |       |             └───inspector_percentage: folder with raw data for the ablation study on the percentage of inspectors used to define the trust region. The following percentages are evaluated: p=0.01, 0.05, 0.1, 0.2
+    |   └───across-algorithm-performance: folder with the raw data to plot the comparison between FuRBO and other common constrained optimization algorithms
+    |   └───bbob-constrained-suite: folder containing all the raw data to assess the performance of FuRBO against SCBO on the bbob-constrained benchmark suite.
 └───Figures: figures used throughout the git
 ```
 
 ## Examples and Benchmarking
-- For examples on how to set up the FuRBO optimization loop, please refer to the Jupyter notebooks in the Tutorial folder. In this folder, the following examples are available:
+- For examples of how to set up the FuRBO optimization loop, please refer to the Jupyter notebooks in the Tutorial folder. In this folder, the following examples are available:
 	- Maximization of the 10D Ackley function under two easy constraint functions without restarts
 	- Maximization of the 10D Ackley function under two easy constraint functions with restarts
 
-- To understand how FuRBO performs, please refer to the benchmarks available. Currently, the FuRBO has been compared with
-	- Scalable Constrained Bayesian Optimization (SCBO) [1]
+- To understand how FuRBO performs, please refer to the tests available. To load and plot the data related, please download the desired folder and unzip the folder named "Experiments". Then, run the python script within the folder. The plot will be saved directly in this folder. The following studies are available:
+	- Performance of FuRBO on the bbob-constrained benchmark suite compared to SCBO with batch size 3D (folder: bbob-constrained-suite);
+ 	- Comparison between a random sampling, COBYLA, CMA-ES, Constrained-EI, SCBO and FuRBO on a sequential optimization on a selection of functions from the bbob-constrained benchmark suite (folder: across-algorithm-performance)
+  	- An ablation study on the influence of the following hyper-parameters:
+  		- initial sample set size (folder: ablation_study -> doe_size)
+  	 	- batch size per iteration (folder: ablation_study -> batch_siye)
+  	  	- the percentage of inspectors to define the trust region (folder: ablation_study -> inspectors_percentage)
 
 [1]: David Eriksson and Matthias Poloczek. Scalable constrained Bayesian optimization. In International Conference on Artificial Intelligence and Statistics, pages 730–738. PMLR, 2021. doi: [10.48550/arxiv.2002.08526](https://doi.org/10.48550/arxiv.2002.08526).
 

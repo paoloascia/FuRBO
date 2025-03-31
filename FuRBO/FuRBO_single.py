@@ -1,6 +1,5 @@
 # Main FuRBO optimization loop without restarts
 #
-# Author: Paolo Ascia
 ##########
 # Imports
 import time

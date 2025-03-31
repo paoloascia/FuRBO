@@ -1,6 +1,5 @@
 # FuRBO sampling strategies
 # 
-# Author: Paolo Ascia
 ##########
 # Imports
 import torch

@@ -1,0 +1,5 @@
+botorch==0.10.0
+gpytorch==1.11
+matplotlib==3.8.4
+numpy==1.24.3
+pytorch==2.3.0

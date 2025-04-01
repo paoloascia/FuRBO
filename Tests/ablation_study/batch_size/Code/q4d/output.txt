@@ -1,0 +1,3015 @@
+Iteration: 0; Random seed: 562873
+0) No feasible point yet! Smallest total violation: 2.04e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.75e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.23e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.10e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 9.89e+00, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 9.11e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 8.25e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 7.57e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 7.05e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 7.05e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 7.05e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 7.05e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 6.64e+00, MG radius: 0.5
+13) No feasible point yet! Smallest total violation: 3.39e+00, MG radius: 0.5
+14) No feasible point yet! Smallest total violation: 3.39e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 2.92e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.72e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 2.20e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.86e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.22e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.22e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.22e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 1.22e+00, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 3.80e-01, MG radius: 0.5
+24) No feasible point yet! Smallest total violation: 3.80e-01, MG radius: 0.5
+25) No feasible point yet! Smallest total violation: 3.80e-01, MG radius: 0.5
+26) No feasible point yet! Smallest total violation: 3.80e-01, MG radius: 0.5
+27) No feasible point yet! Smallest total violation: 1.36e-01, MG radius: 0.25
+28) No feasible point yet! Smallest total violation: 1.36e-01, MG radius: 0.25
+29) Best value: 2.09e+00, MG radius: 0.25
+30) Best value: 2.15e+00, MG radius: 0.25
+31) Best value: 2.15e+00, MG radius: 0.5
+32) Best value: 2.15e+00, MG radius: 0.5
+33) Best value: 2.15e+00, MG radius: 0.5
+34) Best value: 2.15e+00, MG radius: 0.25
+35) Best value: 2.15e+00, MG radius: 0.25
+36) Best value: 2.19e+00, MG radius: 0.25
+37) Best value: 2.19e+00, MG radius: 0.5
+38) Best value: 2.19e+00, MG radius: 0.5
+39) Best value: 2.19e+00, MG radius: 0.5
+40) Best value: 2.19e+00, MG radius: 0.25
+41) Best value: 2.19e+00, MG radius: 0.25
+42) Best value: 2.21e+00, MG radius: 0.25
+43) Best value: 2.21e+00, MG radius: 0.25
+44) Best value: 2.21e+00, MG radius: 0.25
+45) Best value: 2.21e+00, MG radius: 0.25
+46) Best value: 2.23e+00, MG radius: 0.125
+47) Best value: 2.23e+00, MG radius: 0.125
+48) Best value: 2.23e+00, MG radius: 0.125
+49) Best value: 2.27e+00, MG radius: 0.125
+50) Best value: 2.27e+00, MG radius: 0.125
+51) Best value: 2.27e+00, MG radius: 0.125
+52) Best value: 2.27e+00, MG radius: 0.125
+53) Best value: 2.27e+00, MG radius: 0.0625
+54) Best value: 2.27e+00, MG radius: 0.0625
+55) Best value: 2.27e+00, MG radius: 0.0625
+56) Best value: 2.27e+00, MG radius: 0.03125
+57) Best value: 2.27e+00, MG radius: 0.03125
+58) Best value: 2.27e+00, MG radius: 0.03125
+59) Best value: 2.27e+00, MG radius: 0.015625
+60) Best value: 2.27e+00, MG radius: 0.015625
+61) Best value: 2.27e+00, MG radius: 0.015625
+62) Best value: 2.27e+00, MG radius: 0.015625
+63) Best value: 2.30e+00, MG radius: 0.015625
+64) Best value: 2.30e+00, MG radius: 0.015625
+65) Best value: 2.30e+00, MG radius: 0.015625
+66) Best value: 2.30e+00, MG radius: 0.015625
+67) Best value: 2.30e+00, MG radius: 0.0078125
+68) Best value: 2.30e+00, MG radius: 0.0078125
+69) Best value: 2.32e+00, MG radius: 0.0078125
+70) Best value: 2.32e+00, MG radius: 0.015625
+71) Best value: 2.33e+00, MG radius: 0.015625
+72) Best value: 2.33e+00, MG radius: 0.015625
+73) Best value: 2.33e+00, MG radius: 0.015625
+74) Best value: 2.33e+00, MG radius: 0.015625
+75) Best value: 2.33e+00, MG radius: 0.015625
+76) Best value: 2.33e+00, MG radius: 0.015625
+77) Best value: 2.35e+00, MG radius: 0.015625
+78) Best value: 2.36e+00, MG radius: 0.015625
+79) Best value: 2.36e+00, MG radius: 0.03125
+80) Best value: 2.36e+00, MG radius: 0.03125
+81) Best value: 2.36e+00, MG radius: 0.03125
+82) Best value: 2.36e+00, MG radius: 0.015625
+83) Best value: 2.36e+00, MG radius: 0.015625
+84) Best value: 2.36e+00, MG radius: 0.015625
+85) Best value: 2.37e+00, MG radius: 0.0078125
+86) Best value: 2.37e+00, MG radius: 0.0078125
+87) Best value: 2.37e+00, MG radius: 0.015625
+88) Best value: 2.37e+00, MG radius: 0.015625
+89) Best value: 2.37e+00, MG radius: 0.015625
+90) Best value: 2.37e+00, MG radius: 0.0078125
+91) Best value: 2.38e+00, MG radius: 0.0078125
+92) Best value: 2.38e+00, MG radius: 0.015625
+93) Best value: 2.38e+00, MG radius: 0.015625
+94) Best value: 2.38e+00, MG radius: 0.015625
+95) Best value: 2.38e+00, MG radius: 0.0078125
+96) Best value: 2.39e+00, MG radius: 0.0078125
+97) Best value: 2.39e+00, MG radius: 0.0078125
+98) Best value: 2.39e+00, MG radius: 0.015625
+99) Best value: 2.39e+00, MG radius: 0.015625
+100) Best value: 2.39e+00, MG radius: 0.015625
+101) Best value: 2.39e+00, MG radius: 0.0078125
+102) Best value: 2.39e+00, MG radius: 0.0078125
+103) Best value: 2.39e+00, MG radius: 0.0078125
+104) No feasible point yet! Smallest total violation: 4.39e+01, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 2.28e+01, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 1.47e+01, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 1.20e+01, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 1.04e+01, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 1.01e+01, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 8.66e+00, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 8.66e+00, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 8.14e+00, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 7.54e+00, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 7.54e+00, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 4.92e+00, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 4.35e+00, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 3.51e+00, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 3.51e+00, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 2.56e+00, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 2.56e+00, MG radius: 1.0
+121) No feasible point yet! Smallest total violation: 1.58e+00, MG radius: 1.0
+122) No feasible point yet! Smallest total violation: 1.58e+00, MG radius: 1.0
+123) No feasible point yet! Smallest total violation: 8.32e-01, MG radius: 1.0
+124) No feasible point yet! Smallest total violation: 8.32e-01, MG radius: 1.0
+125) No feasible point yet! Smallest total violation: 8.32e-01, MG radius: 1.0
+126) No feasible point yet! Smallest total violation: 8.32e-01, MG radius: 1.0
+127) No feasible point yet! Smallest total violation: 1.36e-01, MG radius: 0.5
+128) No feasible point yet! Smallest total violation: 1.36e-01, MG radius: 0.5
+129) No feasible point yet! Smallest total violation: 1.36e-01, MG radius: 0.5
+130) No feasible point yet! Smallest total violation: 1.36e-01, MG radius: 0.5
+131) Best value: 2.01e+00, MG radius: 0.25
+132) Best value: 2.01e+00, MG radius: 0.25
+133) Best value: 2.11e+00, MG radius: 0.25
+134) Best value: 2.16e+00, MG radius: 0.25
+135) Best value: 2.16e+00, MG radius: 0.5
+136) Best value: 2.16e+00, MG radius: 0.5
+137) Best value: 2.16e+00, MG radius: 0.5
+138) Best value: 2.16e+00, MG radius: 0.25
+139) Best value: 2.16e+00, MG radius: 0.25
+140) Best value: 2.16e+00, MG radius: 0.25
+141) Best value: 2.23e+00, MG radius: 0.125
+142) Best value: 2.23e+00, MG radius: 0.125
+143) Best value: 2.23e+00, MG radius: 0.125
+144) Best value: 2.23e+00, MG radius: 0.125
+145) Best value: 2.23e+00, MG radius: 0.0625
+146) Best value: 2.23e+00, MG radius: 0.0625
+147) Best value: 2.23e+00, MG radius: 0.0625
+148) Best value: 2.23e+00, MG radius: 0.03125
+149) Best value: 2.23e+00, MG radius: 0.03125
+150) Best value: 2.29e+00, MG radius: 0.03125
+151) Best value: 2.29e+00, MG radius: 0.03125
+152) Best value: 2.29e+00, MG radius: 0.03125
+153) Best value: 2.29e+00, MG radius: 0.03125
+154) Best value: 2.29e+00, MG radius: 0.03125
+155) Best value: 2.29e+00, MG radius: 0.03125
+156) Best value: 2.29e+00, MG radius: 0.03125
+157) Best value: 2.29e+00, MG radius: 0.015625
+158) Best value: 2.29e+00, MG radius: 0.015625
+159) Best value: 2.29e+00, MG radius: 0.015625
+160) Best value: 2.31e+00, MG radius: 0.0078125
+161) Best value: 2.31e+00, MG radius: 0.0078125
+162) Best value: 2.33e+00, MG radius: 0.0078125
+163) Best value: 2.33e+00, MG radius: 0.0078125
+164) Best value: 2.33e+00, MG radius: 0.0078125
+165) Best value: 2.34e+00, MG radius: 0.0078125
+166) Best value: 2.34e+00, MG radius: 0.0078125
+167) Best value: 2.34e+00, MG radius: 0.0078125
+168) Best value: 2.36e+00, MG radius: 0.0078125
+169) Best value: 2.36e+00, MG radius: 0.0078125
+170) Best value: 2.36e+00, MG radius: 0.0078125
+171) Best value: 2.37e+00, MG radius: 0.0078125
+172) Best value: 2.37e+00, MG radius: 0.015625
+173) Best value: 2.37e+00, MG radius: 0.015625
+174) Best value: 2.37e+00, MG radius: 0.015625
+175) Best value: 2.39e+00, MG radius: 0.0078125
+176) Best value: 2.39e+00, MG radius: 0.0078125
+177) Best value: 2.39e+00, MG radius: 0.0078125
+178) Best value: 2.39e+00, MG radius: 0.0078125
+179) No feasible point yet! Smallest total violation: 2.95e+01, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 1.18e+01, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 1.18e+01, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 1.07e+01, MG radius: 1.0
+183) No feasible point yet! Smallest total violation: 9.12e+00, MG radius: 1.0
+184) No feasible point yet! Smallest total violation: 9.12e+00, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 8.69e+00, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 7.86e+00, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 6.86e+00, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 6.86e+00, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 6.52e+00, MG radius: 1.0
+190) No feasible point yet! Smallest total violation: 5.45e+00, MG radius: 1.0
+191) No feasible point yet! Smallest total violation: 5.31e+00, MG radius: 1.0
+192) No feasible point yet! Smallest total violation: 5.03e+00, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 3.87e+00, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 3.09e+00, MG radius: 1.0
+195) No feasible point yet! Smallest total violation: 2.80e+00, MG radius: 1.0
+196) No feasible point yet! Smallest total violation: 2.36e+00, MG radius: 1.0
+197) No feasible point yet! Smallest total violation: 1.49e+00, MG radius: 1.0
+198) No feasible point yet! Smallest total violation: 1.49e+00, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 8.75e-01, MG radius: 1.0
+Iteration: 1; Random seed: 803909
+0) No feasible point yet! Smallest total violation: 3.78e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 2.06e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.57e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.12e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.12e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 9.62e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 9.62e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 6.85e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 6.31e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 6.31e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 6.00e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 5.62e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 4.67e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 3.25e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 3.25e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 3.15e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.39e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 1.76e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.76e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.14e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.14e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.14e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 9.43e-01, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 9.43e-01, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 9.43e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 7.59e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 7.59e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 7.59e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 7.59e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 5.73e-01, MG radius: 0.5
+30) No feasible point yet! Smallest total violation: 1.15e-01, MG radius: 0.5
+31) No feasible point yet! Smallest total violation: 1.15e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 1.15e-01, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 1.15e-01, MG radius: 1.0
+34) No feasible point yet! Smallest total violation: 8.61e-02, MG radius: 0.5
+35) No feasible point yet! Smallest total violation: 5.34e-02, MG radius: 0.5
+36) No feasible point yet! Smallest total violation: 5.34e-02, MG radius: 1.0
+37) No feasible point yet! Smallest total violation: 5.34e-02, MG radius: 1.0
+38) No feasible point yet! Smallest total violation: 5.34e-02, MG radius: 1.0
+39) Best value: 1.63e+00, MG radius: 0.5
+40) Best value: 1.98e+00, MG radius: 0.5
+41) Best value: 1.98e+00, MG radius: 1.0
+42) Best value: 1.98e+00, MG radius: 1.0
+43) Best value: 1.98e+00, MG radius: 1.0
+44) Best value: 1.98e+00, MG radius: 0.5
+45) Best value: 1.98e+00, MG radius: 0.5
+46) Best value: 2.19e+00, MG radius: 0.5
+47) Best value: 2.19e+00, MG radius: 0.5
+48) Best value: 2.19e+00, MG radius: 0.5
+49) Best value: 2.19e+00, MG radius: 0.5
+50) Best value: 2.19e+00, MG radius: 0.25
+51) Best value: 2.19e+00, MG radius: 0.25
+52) Best value: 2.19e+00, MG radius: 0.25
+53) Best value: 2.19e+00, MG radius: 0.125
+54) Best value: 2.19e+00, MG radius: 0.125
+55) Best value: 2.31e+00, MG radius: 0.125
+56) Best value: 2.31e+00, MG radius: 0.125
+57) Best value: 2.31e+00, MG radius: 0.125
+58) Best value: 2.31e+00, MG radius: 0.125
+59) Best value: 2.31e+00, MG radius: 0.0625
+60) Best value: 2.31e+00, MG radius: 0.0625
+61) Best value: 2.31e+00, MG radius: 0.0625
+62) Best value: 2.31e+00, MG radius: 0.03125
+63) Best value: 2.31e+00, MG radius: 0.03125
+64) Best value: 2.31e+00, MG radius: 0.03125
+65) Best value: 2.31e+00, MG radius: 0.015625
+66) Best value: 2.31e+00, MG radius: 0.015625
+67) Best value: 2.31e+00, MG radius: 0.015625
+68) Best value: 2.32e+00, MG radius: 0.0078125
+69) Best value: 2.33e+00, MG radius: 0.0078125
+70) Best value: 2.33e+00, MG radius: 0.015625
+71) Best value: 2.33e+00, MG radius: 0.015625
+72) Best value: 2.34e+00, MG radius: 0.015625
+73) Best value: 2.34e+00, MG radius: 0.015625
+74) Best value: 2.34e+00, MG radius: 0.015625
+75) Best value: 2.34e+00, MG radius: 0.015625
+76) Best value: 2.34e+00, MG radius: 0.015625
+77) Best value: 2.34e+00, MG radius: 0.015625
+78) Best value: 2.34e+00, MG radius: 0.015625
+79) Best value: 2.36e+00, MG radius: 0.0078125
+80) Best value: 2.37e+00, MG radius: 0.0078125
+81) Best value: 2.37e+00, MG radius: 0.015625
+82) Best value: 2.37e+00, MG radius: 0.015625
+83) Best value: 2.37e+00, MG radius: 0.015625
+84) Best value: 2.37e+00, MG radius: 0.0078125
+85) Best value: 2.37e+00, MG radius: 0.0078125
+86) Best value: 2.38e+00, MG radius: 0.0078125
+87) Best value: 2.38e+00, MG radius: 0.0078125
+88) Best value: 2.38e+00, MG radius: 0.0078125
+89) Best value: 2.39e+00, MG radius: 0.0078125
+90) Best value: 2.39e+00, MG radius: 0.015625
+91) Best value: 2.39e+00, MG radius: 0.015625
+92) Best value: 2.39e+00, MG radius: 0.015625
+93) Best value: 2.39e+00, MG radius: 0.0078125
+94) Best value: 2.39e+00, MG radius: 0.0078125
+95) Best value: 2.39e+00, MG radius: 0.0078125
+96) No feasible point yet! Smallest total violation: 4.38e+01, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 3.89e+01, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 3.08e+01, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 1.53e+01, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 1.06e+01, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 1.06e+01, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 9.41e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 8.75e+00, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 8.75e+00, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 6.18e+00, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 6.18e+00, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 6.18e+00, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 4.84e+00, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 3.06e+00, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 3.03e+00, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 2.43e+00, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 2.33e+00, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 1.74e+00, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 1.74e+00, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 1.20e+00, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 1.20e+00, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 1.20e+00, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 1.14e+00, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 1.14e+00, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 9.03e-01, MG radius: 1.0
+121) No feasible point yet! Smallest total violation: 9.03e-01, MG radius: 1.0
+122) No feasible point yet! Smallest total violation: 9.03e-01, MG radius: 1.0
+123) No feasible point yet! Smallest total violation: 7.90e-01, MG radius: 1.0
+124) No feasible point yet! Smallest total violation: 7.90e-01, MG radius: 1.0
+125) No feasible point yet! Smallest total violation: 7.90e-01, MG radius: 1.0
+126) No feasible point yet! Smallest total violation: 7.90e-01, MG radius: 1.0
+127) No feasible point yet! Smallest total violation: 4.02e-01, MG radius: 0.5
+128) No feasible point yet! Smallest total violation: 2.69e-01, MG radius: 0.5
+129) No feasible point yet! Smallest total violation: 2.69e-01, MG radius: 1.0
+130) No feasible point yet! Smallest total violation: 2.69e-01, MG radius: 1.0
+131) No feasible point yet! Smallest total violation: 2.69e-01, MG radius: 1.0
+132) No feasible point yet! Smallest total violation: 7.49e-02, MG radius: 0.5
+133) Best value: 2.15e+00, MG radius: 0.5
+134) Best value: 2.15e+00, MG radius: 1.0
+135) Best value: 2.15e+00, MG radius: 1.0
+136) Best value: 2.15e+00, MG radius: 1.0
+137) Best value: 2.15e+00, MG radius: 0.5
+138) Best value: 2.15e+00, MG radius: 0.5
+139) Best value: 2.27e+00, MG radius: 0.5
+140) Best value: 2.27e+00, MG radius: 0.5
+141) Best value: 2.27e+00, MG radius: 0.5
+142) Best value: 2.27e+00, MG radius: 0.5
+143) Best value: 2.27e+00, MG radius: 0.25
+144) Best value: 2.27e+00, MG radius: 0.25
+145) Best value: 2.27e+00, MG radius: 0.25
+146) Best value: 2.27e+00, MG radius: 0.125
+147) Best value: 2.27e+00, MG radius: 0.125
+148) Best value: 2.27e+00, MG radius: 0.125
+149) Best value: 2.27e+00, MG radius: 0.0625
+150) Best value: 2.27e+00, MG radius: 0.0625
+151) Best value: 2.27e+00, MG radius: 0.0625
+152) Best value: 2.27e+00, MG radius: 0.0625
+153) Best value: 2.27e+00, MG radius: 0.0625
+154) Best value: 2.27e+00, MG radius: 0.0625
+155) Best value: 2.27e+00, MG radius: 0.03125
+156) Best value: 2.27e+00, MG radius: 0.03125
+157) Best value: 2.27e+00, MG radius: 0.03125
+158) Best value: 2.27e+00, MG radius: 0.03125
+159) Best value: 2.27e+00, MG radius: 0.015625
+160) Best value: 2.27e+00, MG radius: 0.015625
+161) Best value: 2.27e+00, MG radius: 0.015625
+162) Best value: 2.27e+00, MG radius: 0.03125
+163) Best value: 2.27e+00, MG radius: 0.03125
+164) Best value: 2.27e+00, MG radius: 0.03125
+165) Best value: 2.27e+00, MG radius: 0.015625
+166) Best value: 2.27e+00, MG radius: 0.015625
+167) Best value: 2.27e+00, MG radius: 0.015625
+168) Best value: 2.34e+00, MG radius: 0.015625
+169) Best value: 2.35e+00, MG radius: 0.015625
+170) Best value: 2.35e+00, MG radius: 0.03125
+171) Best value: 2.35e+00, MG radius: 0.03125
+172) Best value: 2.35e+00, MG radius: 0.03125
+173) Best value: 2.35e+00, MG radius: 0.015625
+174) Best value: 2.35e+00, MG radius: 0.015625
+175) Best value: 2.35e+00, MG radius: 0.015625
+176) Best value: 2.35e+00, MG radius: 0.0078125
+177) Best value: 2.35e+00, MG radius: 0.0078125
+178) Best value: 2.36e+00, MG radius: 0.0078125
+179) Best value: 2.36e+00, MG radius: 0.0078125
+180) Best value: 2.36e+00, MG radius: 0.015625
+181) Best value: 2.36e+00, MG radius: 0.015625
+182) Best value: 2.36e+00, MG radius: 0.015625
+183) Best value: 2.38e+00, MG radius: 0.0078125
+184) Best value: 2.38e+00, MG radius: 0.0078125
+185) Best value: 2.38e+00, MG radius: 0.0078125
+186) Best value: 2.39e+00, MG radius: 0.0078125
+187) Best value: 2.39e+00, MG radius: 0.0078125
+188) Best value: 2.39e+00, MG radius: 0.0078125
+189) Best value: 2.40e+00, MG radius: 0.0078125
+190) Best value: 2.40e+00, MG radius: 0.015625
+191) Best value: 2.40e+00, MG radius: 0.015625
+192) Best value: 2.40e+00, MG radius: 0.015625
+193) Best value: 2.40e+00, MG radius: 0.0078125
+194) Best value: 2.40e+00, MG radius: 0.0078125
+195) Best value: 2.40e+00, MG radius: 0.0078125
+196) No feasible point yet! Smallest total violation: 3.94e+01, MG radius: 1.0
+197) No feasible point yet! Smallest total violation: 1.71e+01, MG radius: 1.0
+198) No feasible point yet! Smallest total violation: 1.50e+01, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 1.32e+01, MG radius: 1.0
+Iteration: 2; Random seed: 847470
+0) No feasible point yet! Smallest total violation: 3.19e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.39e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.16e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 8.46e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 8.46e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 7.91e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 6.43e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 5.22e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 3.73e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 3.73e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 3.29e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 2.86e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 1.87e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 1.81e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 1.81e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 1.76e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.76e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.68e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.68e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.68e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 1.37e+00, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 8.57e-01, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 8.57e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 7.86e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 7.67e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 7.67e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 7.67e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 7.19e-01, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 7.19e-01, MG radius: 1.0
+31) No feasible point yet! Smallest total violation: 7.19e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 7.19e-01, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 3.22e-01, MG radius: 0.5
+34) No feasible point yet! Smallest total violation: 2.48e-02, MG radius: 0.5
+35) No feasible point yet! Smallest total violation: 2.48e-02, MG radius: 1.0
+36) No feasible point yet! Smallest total violation: 2.48e-02, MG radius: 1.0
+37) No feasible point yet! Smallest total violation: 2.48e-02, MG radius: 1.0
+38) No feasible point yet! Smallest total violation: 1.21e-02, MG radius: 0.5
+39) Best value: 1.81e+00, MG radius: 0.5
+40) Best value: 1.81e+00, MG radius: 1.0
+41) Best value: 1.81e+00, MG radius: 1.0
+42) Best value: 1.81e+00, MG radius: 1.0
+43) Best value: 2.12e+00, MG radius: 0.5
+44) Best value: 2.12e+00, MG radius: 0.5
+45) Best value: 2.25e+00, MG radius: 0.5
+46) Best value: 2.25e+00, MG radius: 0.5
+47) Best value: 2.25e+00, MG radius: 0.5
+48) Best value: 2.25e+00, MG radius: 0.5
+49) Best value: 2.30e+00, MG radius: 0.25
+50) Best value: 2.30e+00, MG radius: 0.25
+51) Best value: 2.30e+00, MG radius: 0.25
+52) Best value: 2.30e+00, MG radius: 0.25
+53) Best value: 2.30e+00, MG radius: 0.125
+54) Best value: 2.30e+00, MG radius: 0.125
+55) Best value: 2.30e+00, MG radius: 0.125
+56) Best value: 2.30e+00, MG radius: 0.0625
+57) Best value: 2.30e+00, MG radius: 0.0625
+58) Best value: 2.30e+00, MG radius: 0.0625
+59) Best value: 2.30e+00, MG radius: 0.03125
+60) Best value: 2.30e+00, MG radius: 0.03125
+61) Best value: 2.30e+00, MG radius: 0.03125
+62) Best value: 2.32e+00, MG radius: 0.015625
+63) Best value: 2.32e+00, MG radius: 0.015625
+64) Best value: 2.32e+00, MG radius: 0.015625
+65) Best value: 2.32e+00, MG radius: 0.015625
+66) Best value: 2.32e+00, MG radius: 0.0078125
+67) Best value: 2.32e+00, MG radius: 0.0078125
+68) Best value: 2.32e+00, MG radius: 0.0078125
+69) Best value: 2.32e+00, MG radius: 0.0078125
+70) Best value: 2.33e+00, MG radius: 0.0078125
+71) Best value: 2.33e+00, MG radius: 0.015625
+72) Best value: 2.33e+00, MG radius: 0.015625
+73) Best value: 2.33e+00, MG radius: 0.015625
+74) Best value: 2.35e+00, MG radius: 0.0078125
+75) Best value: 2.36e+00, MG radius: 0.0078125
+76) Best value: 2.36e+00, MG radius: 0.015625
+77) Best value: 2.36e+00, MG radius: 0.015625
+78) Best value: 2.36e+00, MG radius: 0.015625
+79) Best value: 2.36e+00, MG radius: 0.0078125
+80) Best value: 2.36e+00, MG radius: 0.0078125
+81) Best value: 2.36e+00, MG radius: 0.0078125
+82) Best value: 2.37e+00, MG radius: 0.0078125
+83) Best value: 2.38e+00, MG radius: 0.0078125
+84) Best value: 2.38e+00, MG radius: 0.015625
+85) Best value: 2.38e+00, MG radius: 0.015625
+86) Best value: 2.38e+00, MG radius: 0.015625
+87) Best value: 2.38e+00, MG radius: 0.0078125
+88) Best value: 2.38e+00, MG radius: 0.0078125
+89) Best value: 2.38e+00, MG radius: 0.0078125
+90) No feasible point yet! Smallest total violation: 3.33e+01, MG radius: 1.0
+91) No feasible point yet! Smallest total violation: 2.10e+01, MG radius: 1.0
+92) No feasible point yet! Smallest total violation: 1.09e+01, MG radius: 1.0
+93) No feasible point yet! Smallest total violation: 9.14e+00, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 9.14e+00, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 9.14e+00, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 9.14e+00, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 7.05e+00, MG radius: 0.5
+98) No feasible point yet! Smallest total violation: 7.05e+00, MG radius: 0.5
+99) No feasible point yet! Smallest total violation: 6.22e+00, MG radius: 0.5
+100) No feasible point yet! Smallest total violation: 5.28e+00, MG radius: 0.5
+101) No feasible point yet! Smallest total violation: 5.28e+00, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 4.64e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 3.17e+00, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 2.64e+00, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 2.64e+00, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 2.21e+00, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 1.78e+00, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 1.45e+00, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 1.32e+00, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 1.15e+00, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 1.15e+00, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 1.13e+00, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 1.13e+00, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 8.98e-01, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 7.16e-01, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 3.52e-01, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 3.52e-01, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 3.52e-01, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 3.52e-01, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 2.57e-02, MG radius: 0.5
+121) Best value: 2.00e+00, MG radius: 0.5
+122) Best value: 2.00e+00, MG radius: 1.0
+123) Best value: 2.00e+00, MG radius: 1.0
+124) Best value: 2.00e+00, MG radius: 1.0
+125) Best value: 2.10e+00, MG radius: 0.5
+126) Best value: 2.10e+00, MG radius: 0.5
+127) Best value: 2.10e+00, MG radius: 0.5
+128) Best value: 2.10e+00, MG radius: 0.5
+129) Best value: 2.23e+00, MG radius: 0.25
+130) Best value: 2.23e+00, MG radius: 0.25
+131) Best value: 2.23e+00, MG radius: 0.25
+132) Best value: 2.23e+00, MG radius: 0.25
+133) Best value: 2.23e+00, MG radius: 0.125
+134) Best value: 2.23e+00, MG radius: 0.125
+135) Best value: 2.23e+00, MG radius: 0.125
+136) Best value: 2.23e+00, MG radius: 0.0625
+137) Best value: 2.23e+00, MG radius: 0.0625
+138) Best value: 2.29e+00, MG radius: 0.0625
+139) Best value: 2.29e+00, MG radius: 0.0625
+140) Best value: 2.29e+00, MG radius: 0.0625
+141) Best value: 2.29e+00, MG radius: 0.0625
+142) Best value: 2.29e+00, MG radius: 0.03125
+143) Best value: 2.29e+00, MG radius: 0.03125
+144) Best value: 2.31e+00, MG radius: 0.03125
+145) Best value: 2.31e+00, MG radius: 0.03125
+146) Best value: 2.31e+00, MG radius: 0.03125
+147) Best value: 2.31e+00, MG radius: 0.03125
+148) Best value: 2.31e+00, MG radius: 0.015625
+149) Best value: 2.31e+00, MG radius: 0.015625
+150) Best value: 2.31e+00, MG radius: 0.015625
+151) Best value: 2.31e+00, MG radius: 0.015625
+152) Best value: 2.31e+00, MG radius: 0.015625
+153) Best value: 2.32e+00, MG radius: 0.015625
+154) Best value: 2.32e+00, MG radius: 0.015625
+155) Best value: 2.33e+00, MG radius: 0.015625
+156) Best value: 2.34e+00, MG radius: 0.015625
+157) Best value: 2.34e+00, MG radius: 0.03125
+158) Best value: 2.34e+00, MG radius: 0.03125
+159) Best value: 2.34e+00, MG radius: 0.03125
+160) Best value: 2.34e+00, MG radius: 0.015625
+161) Best value: 2.34e+00, MG radius: 0.015625
+162) Best value: 2.34e+00, MG radius: 0.015625
+163) Best value: 2.35e+00, MG radius: 0.0078125
+164) Best value: 2.35e+00, MG radius: 0.0078125
+165) Best value: 2.36e+00, MG radius: 0.0078125
+166) Best value: 2.36e+00, MG radius: 0.0078125
+167) Best value: 2.36e+00, MG radius: 0.0078125
+168) Best value: 2.38e+00, MG radius: 0.0078125
+169) Best value: 2.38e+00, MG radius: 0.0078125
+170) Best value: 2.39e+00, MG radius: 0.0078125
+171) Best value: 2.39e+00, MG radius: 0.0078125
+172) Best value: 2.39e+00, MG radius: 0.0078125
+173) Best value: 2.39e+00, MG radius: 0.0078125
+174) No feasible point yet! Smallest total violation: 4.00e+01, MG radius: 1.0
+175) No feasible point yet! Smallest total violation: 3.44e+01, MG radius: 1.0
+176) No feasible point yet! Smallest total violation: 1.57e+01, MG radius: 1.0
+177) No feasible point yet! Smallest total violation: 1.46e+01, MG radius: 1.0
+178) No feasible point yet! Smallest total violation: 1.46e+01, MG radius: 1.0
+179) No feasible point yet! Smallest total violation: 1.32e+01, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 1.27e+01, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 1.09e+01, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 1.07e+01, MG radius: 1.0
+183) No feasible point yet! Smallest total violation: 9.39e+00, MG radius: 1.0
+184) No feasible point yet! Smallest total violation: 9.25e+00, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 8.21e+00, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 7.17e+00, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 7.03e+00, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 5.93e+00, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 4.69e+00, MG radius: 1.0
+190) No feasible point yet! Smallest total violation: 4.69e+00, MG radius: 1.0
+191) No feasible point yet! Smallest total violation: 4.03e+00, MG radius: 1.0
+192) No feasible point yet! Smallest total violation: 4.03e+00, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 2.73e+00, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 1.86e+00, MG radius: 1.0
+195) No feasible point yet! Smallest total violation: 1.86e+00, MG radius: 1.0
+196) No feasible point yet! Smallest total violation: 1.86e+00, MG radius: 1.0
+197) No feasible point yet! Smallest total violation: 9.25e-01, MG radius: 1.0
+198) No feasible point yet! Smallest total violation: 9.25e-01, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 9.25e-01, MG radius: 1.0
+Iteration: 3; Random seed: 655741
+0) No feasible point yet! Smallest total violation: 2.43e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.87e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.35e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.34e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.24e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 1.24e+01, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 1.12e+01, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 1.12e+01, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 8.36e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 5.52e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 5.52e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 5.52e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 5.52e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 4.09e+00, MG radius: 0.5
+14) No feasible point yet! Smallest total violation: 3.13e+00, MG radius: 0.5
+15) No feasible point yet! Smallest total violation: 2.89e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.46e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 2.46e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 2.03e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.69e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.69e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.39e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 1.11e+00, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 1.11e+00, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 1.11e+00, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 9.11e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 8.63e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 7.26e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 7.26e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 3.96e-01, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 3.71e-01, MG radius: 1.0
+31) No feasible point yet! Smallest total violation: 3.71e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 3.71e-01, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 3.71e-01, MG radius: 1.0
+34) No feasible point yet! Smallest total violation: 1.85e-01, MG radius: 0.5
+35) No feasible point yet! Smallest total violation: 1.85e-01, MG radius: 0.5
+36) No feasible point yet! Smallest total violation: 6.00e-02, MG radius: 0.5
+37) Best value: 2.12e+00, MG radius: 0.5
+38) Best value: 2.12e+00, MG radius: 1.0
+39) Best value: 2.12e+00, MG radius: 1.0
+40) Best value: 2.12e+00, MG radius: 1.0
+41) Best value: 2.12e+00, MG radius: 0.5
+42) Best value: 2.12e+00, MG radius: 0.5
+43) Best value: 2.19e+00, MG radius: 0.5
+44) Best value: 2.19e+00, MG radius: 0.5
+45) Best value: 2.19e+00, MG radius: 0.5
+46) Best value: 2.19e+00, MG radius: 0.5
+47) Best value: 2.19e+00, MG radius: 0.25
+48) Best value: 2.29e+00, MG radius: 0.25
+49) Best value: 2.29e+00, MG radius: 0.25
+50) Best value: 2.29e+00, MG radius: 0.25
+51) Best value: 2.29e+00, MG radius: 0.25
+52) Best value: 2.29e+00, MG radius: 0.125
+53) Best value: 2.29e+00, MG radius: 0.125
+54) Best value: 2.29e+00, MG radius: 0.125
+55) Best value: 2.29e+00, MG radius: 0.0625
+56) Best value: 2.29e+00, MG radius: 0.0625
+57) Best value: 2.29e+00, MG radius: 0.0625
+58) Best value: 2.29e+00, MG radius: 0.03125
+59) Best value: 2.29e+00, MG radius: 0.03125
+60) Best value: 2.29e+00, MG radius: 0.03125
+61) Best value: 2.30e+00, MG radius: 0.015625
+62) Best value: 2.30e+00, MG radius: 0.015625
+63) Best value: 2.33e+00, MG radius: 0.015625
+64) Best value: 2.33e+00, MG radius: 0.015625
+65) Best value: 2.33e+00, MG radius: 0.015625
+66) Best value: 2.33e+00, MG radius: 0.015625
+67) Best value: 2.33e+00, MG radius: 0.0078125
+68) Best value: 2.33e+00, MG radius: 0.0078125
+69) Best value: 2.34e+00, MG radius: 0.0078125
+70) Best value: 2.34e+00, MG radius: 0.0078125
+71) Best value: 2.34e+00, MG radius: 0.0078125
+72) Best value: 2.34e+00, MG radius: 0.0078125
+73) No feasible point yet! Smallest total violation: 3.09e+01, MG radius: 1.0
+74) No feasible point yet! Smallest total violation: 1.30e+01, MG radius: 1.0
+75) No feasible point yet! Smallest total violation: 1.23e+01, MG radius: 1.0
+76) No feasible point yet! Smallest total violation: 1.23e+01, MG radius: 1.0
+77) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 1.0
+78) No feasible point yet! Smallest total violation: 9.14e+00, MG radius: 1.0
+79) No feasible point yet! Smallest total violation: 9.14e+00, MG radius: 1.0
+80) No feasible point yet! Smallest total violation: 9.14e+00, MG radius: 1.0
+81) No feasible point yet! Smallest total violation: 8.85e+00, MG radius: 1.0
+82) No feasible point yet! Smallest total violation: 8.79e+00, MG radius: 1.0
+83) No feasible point yet! Smallest total violation: 7.42e+00, MG radius: 1.0
+84) No feasible point yet! Smallest total violation: 5.89e+00, MG radius: 1.0
+85) No feasible point yet! Smallest total violation: 5.46e+00, MG radius: 1.0
+86) No feasible point yet! Smallest total violation: 4.49e+00, MG radius: 1.0
+87) No feasible point yet! Smallest total violation: 3.74e+00, MG radius: 1.0
+88) No feasible point yet! Smallest total violation: 3.74e+00, MG radius: 1.0
+89) No feasible point yet! Smallest total violation: 2.37e+00, MG radius: 1.0
+90) No feasible point yet! Smallest total violation: 2.37e+00, MG radius: 1.0
+91) No feasible point yet! Smallest total violation: 2.37e+00, MG radius: 1.0
+92) No feasible point yet! Smallest total violation: 1.68e+00, MG radius: 1.0
+93) No feasible point yet! Smallest total violation: 4.14e-01, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 4.14e-01, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 4.14e-01, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 4.14e-01, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 4.14e-01, MG radius: 0.5
+98) No feasible point yet! Smallest total violation: 3.69e-01, MG radius: 0.5
+99) No feasible point yet! Smallest total violation: 3.69e-01, MG radius: 0.5
+100) No feasible point yet! Smallest total violation: 2.33e-01, MG radius: 0.5
+101) No feasible point yet! Smallest total violation: 2.33e-01, MG radius: 0.5
+102) No feasible point yet! Smallest total violation: 1.92e-01, MG radius: 0.5
+103) No feasible point yet! Smallest total violation: 7.29e-03, MG radius: 0.5
+104) No feasible point yet! Smallest total violation: 7.29e-03, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 7.29e-03, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 7.29e-03, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 7.29e-03, MG radius: 0.5
+108) No feasible point yet! Smallest total violation: 7.29e-03, MG radius: 0.5
+109) No feasible point yet! Smallest total violation: 7.29e-03, MG radius: 0.5
+110) Best value: 2.08e+00, MG radius: 0.25
+111) Best value: 2.08e+00, MG radius: 0.25
+112) Best value: 2.08e+00, MG radius: 0.25
+113) Best value: 2.16e+00, MG radius: 0.25
+114) Best value: 2.16e+00, MG radius: 0.25
+115) Best value: 2.16e+00, MG radius: 0.25
+116) Best value: 2.26e+00, MG radius: 0.25
+117) Best value: 2.26e+00, MG radius: 0.25
+118) Best value: 2.26e+00, MG radius: 0.25
+119) Best value: 2.26e+00, MG radius: 0.25
+120) Best value: 2.26e+00, MG radius: 0.125
+121) Best value: 2.26e+00, MG radius: 0.125
+122) Best value: 2.26e+00, MG radius: 0.125
+123) Best value: 2.26e+00, MG radius: 0.0625
+124) Best value: 2.26e+00, MG radius: 0.0625
+125) Best value: 2.26e+00, MG radius: 0.0625
+126) Best value: 2.26e+00, MG radius: 0.03125
+127) Best value: 2.26e+00, MG radius: 0.03125
+128) Best value: 2.26e+00, MG radius: 0.03125
+129) Best value: 2.26e+00, MG radius: 0.015625
+130) Best value: 2.26e+00, MG radius: 0.015625
+131) Best value: 2.29e+00, MG radius: 0.015625
+132) Best value: 2.30e+00, MG radius: 0.015625
+133) Best value: 2.30e+00, MG radius: 0.03125
+134) Best value: 2.30e+00, MG radius: 0.03125
+135) Best value: 2.30e+00, MG radius: 0.03125
+136) Best value: 2.30e+00, MG radius: 0.015625
+137) Best value: 2.30e+00, MG radius: 0.015625
+138) Best value: 2.31e+00, MG radius: 0.015625
+139) Best value: 2.31e+00, MG radius: 0.015625
+140) Best value: 2.31e+00, MG radius: 0.015625
+141) Best value: 2.31e+00, MG radius: 0.015625
+142) Best value: 2.32e+00, MG radius: 0.015625
+143) Best value: 2.32e+00, MG radius: 0.03125
+144) Best value: 2.32e+00, MG radius: 0.03125
+145) Best value: 2.32e+00, MG radius: 0.03125
+146) Best value: 2.34e+00, MG radius: 0.015625
+147) Best value: 2.34e+00, MG radius: 0.015625
+148) Best value: 2.34e+00, MG radius: 0.03125
+149) Best value: 2.34e+00, MG radius: 0.03125
+150) Best value: 2.34e+00, MG radius: 0.03125
+151) Best value: 2.35e+00, MG radius: 0.015625
+152) Best value: 2.36e+00, MG radius: 0.015625
+153) Best value: 2.36e+00, MG radius: 0.03125
+154) Best value: 2.36e+00, MG radius: 0.03125
+155) Best value: 2.36e+00, MG radius: 0.03125
+156) Best value: 2.36e+00, MG radius: 0.015625
+157) Best value: 2.36e+00, MG radius: 0.015625
+158) Best value: 2.36e+00, MG radius: 0.015625
+159) Best value: 2.37e+00, MG radius: 0.0078125
+160) Best value: 2.38e+00, MG radius: 0.0078125
+161) Best value: 2.38e+00, MG radius: 0.015625
+162) Best value: 2.38e+00, MG radius: 0.015625
+163) Best value: 2.38e+00, MG radius: 0.015625
+164) Best value: 2.38e+00, MG radius: 0.0078125
+165) Best value: 2.38e+00, MG radius: 0.0078125
+166) Best value: 2.38e+00, MG radius: 0.0078125
+167) Best value: 2.38e+00, MG radius: 0.0078125
+168) Best value: 2.38e+00, MG radius: 0.0078125
+169) Best value: 2.38e+00, MG radius: 0.0078125
+170) No feasible point yet! Smallest total violation: 2.45e+01, MG radius: 1.0
+171) No feasible point yet! Smallest total violation: 2.20e+01, MG radius: 1.0
+172) No feasible point yet! Smallest total violation: 1.06e+01, MG radius: 1.0
+173) No feasible point yet! Smallest total violation: 7.83e+00, MG radius: 1.0
+174) No feasible point yet! Smallest total violation: 7.83e+00, MG radius: 1.0
+175) No feasible point yet! Smallest total violation: 6.89e+00, MG radius: 1.0
+176) No feasible point yet! Smallest total violation: 6.74e+00, MG radius: 1.0
+177) No feasible point yet! Smallest total violation: 5.90e+00, MG radius: 1.0
+178) No feasible point yet! Smallest total violation: 5.89e+00, MG radius: 1.0
+179) No feasible point yet! Smallest total violation: 5.89e+00, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 5.89e+00, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 5.11e+00, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 4.06e+00, MG radius: 1.0
+183) No feasible point yet! Smallest total violation: 2.99e+00, MG radius: 1.0
+184) No feasible point yet! Smallest total violation: 2.40e+00, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 2.40e+00, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 2.25e+00, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 1.95e+00, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 1.74e+00, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 1.46e+00, MG radius: 1.0
+190) No feasible point yet! Smallest total violation: 1.43e+00, MG radius: 1.0
+191) No feasible point yet! Smallest total violation: 1.43e+00, MG radius: 1.0
+192) No feasible point yet! Smallest total violation: 1.03e+00, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 1.03e+00, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 1.03e+00, MG radius: 1.0
+195) No feasible point yet! Smallest total violation: 6.89e-01, MG radius: 1.0
+196) No feasible point yet! Smallest total violation: 6.89e-01, MG radius: 1.0
+197) No feasible point yet! Smallest total violation: 6.89e-01, MG radius: 1.0
+198) No feasible point yet! Smallest total violation: 6.89e-01, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 2.55e-01, MG radius: 0.5
+Iteration: 4; Random seed: 174992
+0) No feasible point yet! Smallest total violation: 3.01e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 3.00e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.26e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.10e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.01e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 1.01e+01, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 9.22e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 8.69e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 6.47e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 6.47e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 6.47e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 6.47e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 6.47e+00, MG radius: 0.5
+13) No feasible point yet! Smallest total violation: 5.21e+00, MG radius: 0.5
+14) No feasible point yet! Smallest total violation: 4.53e+00, MG radius: 0.5
+15) No feasible point yet! Smallest total violation: 3.59e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.87e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 2.00e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 2.00e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.53e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.53e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.44e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 1.32e+00, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 1.32e+00, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 1.32e+00, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 9.96e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 9.00e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 9.00e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 9.00e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 5.81e-01, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 5.81e-01, MG radius: 1.0
+31) No feasible point yet! Smallest total violation: 5.81e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 5.48e-01, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 5.48e-01, MG radius: 1.0
+34) No feasible point yet! Smallest total violation: 4.92e-01, MG radius: 1.0
+35) No feasible point yet! Smallest total violation: 4.92e-01, MG radius: 1.0
+36) No feasible point yet! Smallest total violation: 4.92e-01, MG radius: 1.0
+37) No feasible point yet! Smallest total violation: 4.92e-01, MG radius: 1.0
+38) No feasible point yet! Smallest total violation: 6.43e-02, MG radius: 0.5
+39) No feasible point yet! Smallest total violation: 6.43e-02, MG radius: 0.5
+40) No feasible point yet! Smallest total violation: 6.43e-02, MG radius: 0.5
+41) No feasible point yet! Smallest total violation: 6.43e-02, MG radius: 0.5
+42) Best value: 2.12e+00, MG radius: 0.25
+43) Best value: 2.12e+00, MG radius: 0.25
+44) Best value: 2.18e+00, MG radius: 0.25
+45) Best value: 2.18e+00, MG radius: 0.25
+46) Best value: 2.18e+00, MG radius: 0.25
+47) Best value: 2.18e+00, MG radius: 0.25
+48) Best value: 2.18e+00, MG radius: 0.125
+49) Best value: 2.18e+00, MG radius: 0.125
+50) Best value: 2.18e+00, MG radius: 0.125
+51) Best value: 2.19e+00, MG radius: 0.0625
+52) Best value: 2.19e+00, MG radius: 0.0625
+53) Best value: 2.19e+00, MG radius: 0.0625
+54) Best value: 2.19e+00, MG radius: 0.0625
+55) Best value: 2.19e+00, MG radius: 0.03125
+56) Best value: 2.22e+00, MG radius: 0.03125
+57) Best value: 2.22e+00, MG radius: 0.03125
+58) Best value: 2.22e+00, MG radius: 0.03125
+59) Best value: 2.22e+00, MG radius: 0.03125
+60) Best value: 2.22e+00, MG radius: 0.03125
+61) Best value: 2.22e+00, MG radius: 0.03125
+62) Best value: 2.22e+00, MG radius: 0.03125
+63) Best value: 2.22e+00, MG radius: 0.015625
+64) Best value: 2.27e+00, MG radius: 0.015625
+65) Best value: 2.27e+00, MG radius: 0.015625
+66) Best value: 2.27e+00, MG radius: 0.015625
+67) Best value: 2.27e+00, MG radius: 0.015625
+68) Best value: 2.27e+00, MG radius: 0.0078125
+69) Best value: 2.28e+00, MG radius: 0.0078125
+70) Best value: 2.28e+00, MG radius: 0.015625
+71) Best value: 2.28e+00, MG radius: 0.015625
+72) Best value: 2.28e+00, MG radius: 0.015625
+73) Best value: 2.29e+00, MG radius: 0.0078125
+74) Best value: 2.30e+00, MG radius: 0.0078125
+75) Best value: 2.31e+00, MG radius: 0.015625
+76) Best value: 2.31e+00, MG radius: 0.015625
+77) Best value: 2.32e+00, MG radius: 0.015625
+78) Best value: 2.32e+00, MG radius: 0.015625
+79) Best value: 2.32e+00, MG radius: 0.015625
+80) Best value: 2.35e+00, MG radius: 0.015625
+81) Best value: 2.35e+00, MG radius: 0.015625
+82) Best value: 2.35e+00, MG radius: 0.015625
+83) Best value: 2.36e+00, MG radius: 0.015625
+84) Best value: 2.36e+00, MG radius: 0.015625
+85) Best value: 2.36e+00, MG radius: 0.015625
+86) Best value: 2.36e+00, MG radius: 0.015625
+87) Best value: 2.36e+00, MG radius: 0.0078125
+88) Best value: 2.36e+00, MG radius: 0.0078125
+89) Best value: 2.36e+00, MG radius: 0.0078125
+90) Best value: 2.36e+00, MG radius: 0.015625
+91) Best value: 2.36e+00, MG radius: 0.015625
+92) Best value: 2.36e+00, MG radius: 0.015625
+93) Best value: 2.37e+00, MG radius: 0.0078125
+94) Best value: 2.38e+00, MG radius: 0.0078125
+95) Best value: 2.38e+00, MG radius: 0.015625
+96) Best value: 2.38e+00, MG radius: 0.015625
+97) Best value: 2.38e+00, MG radius: 0.015625
+98) Best value: 2.39e+00, MG radius: 0.0078125
+99) Best value: 2.39e+00, MG radius: 0.0078125
+100) Best value: 2.39e+00, MG radius: 0.015625
+101) Best value: 2.39e+00, MG radius: 0.015625
+102) Best value: 2.39e+00, MG radius: 0.015625
+103) Best value: 2.39e+00, MG radius: 0.0078125
+104) Best value: 2.39e+00, MG radius: 0.0078125
+105) Best value: 2.40e+00, MG radius: 0.0078125
+106) Best value: 2.40e+00, MG radius: 0.0078125
+107) Best value: 2.40e+00, MG radius: 0.0078125
+108) Best value: 2.40e+00, MG radius: 0.0078125
+109) No feasible point yet! Smallest total violation: 3.52e+01, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 2.81e+01, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 2.81e+01, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 1.24e+01, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 9.50e+00, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 7.14e+00, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 7.14e+00, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 7.14e+00, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 6.15e+00, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 5.95e+00, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 5.73e+00, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 4.72e+00, MG radius: 1.0
+121) No feasible point yet! Smallest total violation: 3.12e+00, MG radius: 1.0
+122) No feasible point yet! Smallest total violation: 3.03e+00, MG radius: 1.0
+123) No feasible point yet! Smallest total violation: 2.26e+00, MG radius: 1.0
+124) No feasible point yet! Smallest total violation: 1.35e+00, MG radius: 1.0
+125) No feasible point yet! Smallest total violation: 1.35e+00, MG radius: 1.0
+126) No feasible point yet! Smallest total violation: 1.35e+00, MG radius: 1.0
+127) No feasible point yet! Smallest total violation: 1.01e+00, MG radius: 1.0
+128) No feasible point yet! Smallest total violation: 1.01e+00, MG radius: 1.0
+129) No feasible point yet! Smallest total violation: 1.01e+00, MG radius: 1.0
+130) No feasible point yet! Smallest total violation: 1.01e+00, MG radius: 1.0
+131) No feasible point yet! Smallest total violation: 6.31e-01, MG radius: 0.5
+132) No feasible point yet! Smallest total violation: 2.22e-01, MG radius: 0.5
+133) No feasible point yet! Smallest total violation: 2.22e-01, MG radius: 1.0
+134) No feasible point yet! Smallest total violation: 2.22e-01, MG radius: 1.0
+135) No feasible point yet! Smallest total violation: 2.22e-01, MG radius: 1.0
+136) No feasible point yet! Smallest total violation: 1.79e-01, MG radius: 0.5
+137) Best value: 2.07e+00, MG radius: 0.5
+138) Best value: 2.07e+00, MG radius: 1.0
+139) Best value: 2.07e+00, MG radius: 1.0
+140) Best value: 2.07e+00, MG radius: 1.0
+141) Best value: 2.25e+00, MG radius: 0.5
+142) Best value: 2.25e+00, MG radius: 0.5
+143) Best value: 2.25e+00, MG radius: 0.5
+144) Best value: 2.25e+00, MG radius: 0.5
+145) Best value: 2.25e+00, MG radius: 0.25
+146) Best value: 2.25e+00, MG radius: 0.25
+147) Best value: 2.25e+00, MG radius: 0.25
+148) Best value: 2.25e+00, MG radius: 0.125
+149) Best value: 2.25e+00, MG radius: 0.125
+150) Best value: 2.25e+00, MG radius: 0.125
+151) Best value: 2.25e+00, MG radius: 0.0625
+152) Best value: 2.25e+00, MG radius: 0.0625
+153) Best value: 2.25e+00, MG radius: 0.0625
+154) Best value: 2.25e+00, MG radius: 0.03125
+155) Best value: 2.26e+00, MG radius: 0.03125
+156) Best value: 2.26e+00, MG radius: 0.03125
+157) Best value: 2.26e+00, MG radius: 0.03125
+158) Best value: 2.26e+00, MG radius: 0.03125
+159) Best value: 2.26e+00, MG radius: 0.015625
+160) Best value: 2.26e+00, MG radius: 0.015625
+161) Best value: 2.28e+00, MG radius: 0.015625
+162) Best value: 2.28e+00, MG radius: 0.015625
+163) Best value: 2.29e+00, MG radius: 0.015625
+164) Best value: 2.30e+00, MG radius: 0.015625
+165) Best value: 2.30e+00, MG radius: 0.03125
+166) Best value: 2.30e+00, MG radius: 0.03125
+167) Best value: 2.30e+00, MG radius: 0.03125
+168) Best value: 2.33e+00, MG radius: 0.015625
+169) Best value: 2.33e+00, MG radius: 0.015625
+170) Best value: 2.33e+00, MG radius: 0.015625
+171) Best value: 2.33e+00, MG radius: 0.015625
+172) Best value: 2.35e+00, MG radius: 0.0078125
+173) Best value: 2.37e+00, MG radius: 0.0078125
+174) Best value: 2.37e+00, MG radius: 0.015625
+175) Best value: 2.37e+00, MG radius: 0.015625
+176) Best value: 2.37e+00, MG radius: 0.015625
+177) Best value: 2.37e+00, MG radius: 0.0078125
+178) Best value: 2.37e+00, MG radius: 0.0078125
+179) Best value: 2.37e+00, MG radius: 0.0078125
+180) Best value: 2.37e+00, MG radius: 0.0078125
+181) Best value: 2.38e+00, MG radius: 0.0078125
+182) Best value: 2.38e+00, MG radius: 0.015625
+183) Best value: 2.38e+00, MG radius: 0.015625
+184) Best value: 2.38e+00, MG radius: 0.015625
+185) Best value: 2.38e+00, MG radius: 0.015625
+186) Best value: 2.38e+00, MG radius: 0.015625
+187) Best value: 2.38e+00, MG radius: 0.015625
+188) Best value: 2.39e+00, MG radius: 0.0078125
+189) Best value: 2.40e+00, MG radius: 0.0078125
+190) Best value: 2.40e+00, MG radius: 0.015625
+191) Best value: 2.40e+00, MG radius: 0.015625
+192) Best value: 2.40e+00, MG radius: 0.015625
+193) Best value: 2.40e+00, MG radius: 0.0078125
+194) Best value: 2.40e+00, MG radius: 0.0078125
+195) Best value: 2.40e+00, MG radius: 0.0078125
+196) No feasible point yet! Smallest total violation: 1.80e+01, MG radius: 1.0
+197) No feasible point yet! Smallest total violation: 1.25e+01, MG radius: 1.0
+198) No feasible point yet! Smallest total violation: 1.16e+01, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 1.09e+01, MG radius: 1.0
+Iteration: 5; Random seed: 927888
+0) No feasible point yet! Smallest total violation: 2.52e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.60e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.18e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.18e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.16e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 1.04e+01, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 8.45e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 8.45e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 8.03e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 8.03e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 5.80e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 5.00e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 5.00e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 3.34e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 2.59e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 1.73e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 1.73e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 1.73e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.70e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.61e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.22e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.22e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 1.22e+00, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 1.09e+00, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 9.10e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 9.10e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 9.10e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 5.84e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 5.84e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 5.84e-01, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 5.84e-01, MG radius: 1.0
+31) Best value: 2.10e+00, MG radius: 0.5
+32) Best value: 2.10e+00, MG radius: 0.5
+33) Best value: 2.10e+00, MG radius: 0.5
+34) Best value: 2.10e+00, MG radius: 0.5
+35) Best value: 2.10e+00, MG radius: 0.25
+36) Best value: 2.10e+00, MG radius: 0.25
+37) Best value: 2.13e+00, MG radius: 0.25
+38) Best value: 2.24e+00, MG radius: 0.25
+39) Best value: 2.24e+00, MG radius: 0.5
+40) Best value: 2.24e+00, MG radius: 0.5
+41) Best value: 2.24e+00, MG radius: 0.5
+42) Best value: 2.24e+00, MG radius: 0.25
+43) Best value: 2.24e+00, MG radius: 0.25
+44) Best value: 2.24e+00, MG radius: 0.25
+45) Best value: 2.24e+00, MG radius: 0.125
+46) Best value: 2.24e+00, MG radius: 0.125
+47) Best value: 2.24e+00, MG radius: 0.125
+48) Best value: 2.24e+00, MG radius: 0.0625
+49) Best value: 2.24e+00, MG radius: 0.0625
+50) Best value: 2.24e+00, MG radius: 0.0625
+51) Best value: 2.24e+00, MG radius: 0.03125
+52) Best value: 2.24e+00, MG radius: 0.03125
+53) Best value: 2.24e+00, MG radius: 0.03125
+54) Best value: 2.24e+00, MG radius: 0.015625
+55) Best value: 2.26e+00, MG radius: 0.015625
+56) Best value: 2.26e+00, MG radius: 0.015625
+57) Best value: 2.26e+00, MG radius: 0.03125
+58) Best value: 2.26e+00, MG radius: 0.03125
+59) Best value: 2.26e+00, MG radius: 0.03125
+60) Best value: 2.26e+00, MG radius: 0.015625
+61) Best value: 2.32e+00, MG radius: 0.015625
+62) Best value: 2.32e+00, MG radius: 0.015625
+63) Best value: 2.32e+00, MG radius: 0.015625
+64) Best value: 2.34e+00, MG radius: 0.015625
+65) Best value: 2.34e+00, MG radius: 0.015625
+66) Best value: 2.34e+00, MG radius: 0.015625
+67) Best value: 2.34e+00, MG radius: 0.015625
+68) Best value: 2.34e+00, MG radius: 0.0078125
+69) Best value: 2.35e+00, MG radius: 0.0078125
+70) Best value: 2.35e+00, MG radius: 0.0078125
+71) Best value: 2.35e+00, MG radius: 0.015625
+72) Best value: 2.35e+00, MG radius: 0.015625
+73) Best value: 2.35e+00, MG radius: 0.015625
+74) Best value: 2.35e+00, MG radius: 0.0078125
+75) Best value: 2.36e+00, MG radius: 0.0078125
+76) Best value: 2.36e+00, MG radius: 0.0078125
+77) Best value: 2.36e+00, MG radius: 0.015625
+78) Best value: 2.36e+00, MG radius: 0.015625
+79) Best value: 2.36e+00, MG radius: 0.015625
+80) Best value: 2.39e+00, MG radius: 0.0078125
+81) Best value: 2.39e+00, MG radius: 0.0078125
+82) Best value: 2.39e+00, MG radius: 0.015625
+83) Best value: 2.39e+00, MG radius: 0.015625
+84) Best value: 2.39e+00, MG radius: 0.015625
+85) Best value: 2.39e+00, MG radius: 0.0078125
+86) Best value: 2.39e+00, MG radius: 0.0078125
+87) Best value: 2.39e+00, MG radius: 0.0078125
+88) Best value: 2.39e+00, MG radius: 0.0078125
+89) No feasible point yet! Smallest total violation: 2.56e+01, MG radius: 1.0
+90) No feasible point yet! Smallest total violation: 1.36e+01, MG radius: 1.0
+91) No feasible point yet! Smallest total violation: 1.14e+01, MG radius: 1.0
+92) No feasible point yet! Smallest total violation: 1.14e+01, MG radius: 1.0
+93) No feasible point yet! Smallest total violation: 1.03e+01, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 9.92e+00, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 8.25e+00, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 8.15e+00, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 8.15e+00, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 7.08e+00, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 7.07e+00, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 6.19e+00, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 6.16e+00, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 4.37e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 3.81e+00, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 3.08e+00, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 3.08e+00, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 3.08e+00, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 1.95e+00, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 1.31e+00, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 1.31e+00, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 1.12e+00, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 1.12e+00, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 9.01e-01, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 9.01e-01, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 6.26e-01, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 6.26e-01, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 6.26e-01, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 5.22e-01, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 5.22e-01, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 5.22e-01, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 4.35e-01, MG radius: 1.0
+121) No feasible point yet! Smallest total violation: 4.35e-01, MG radius: 1.0
+122) No feasible point yet! Smallest total violation: 4.35e-01, MG radius: 1.0
+123) No feasible point yet! Smallest total violation: 4.35e-01, MG radius: 1.0
+124) Best value: 2.22e+00, MG radius: 0.5
+125) Best value: 2.22e+00, MG radius: 0.5
+126) Best value: 2.22e+00, MG radius: 0.5
+127) Best value: 2.22e+00, MG radius: 0.5
+128) Best value: 2.22e+00, MG radius: 0.25
+129) Best value: 2.22e+00, MG radius: 0.25
+130) Best value: 2.22e+00, MG radius: 0.25
+131) Best value: 2.22e+00, MG radius: 0.125
+132) Best value: 2.22e+00, MG radius: 0.125
+133) Best value: 2.22e+00, MG radius: 0.125
+134) Best value: 2.22e+00, MG radius: 0.0625
+135) Best value: 2.22e+00, MG radius: 0.0625
+136) Best value: 2.22e+00, MG radius: 0.0625
+137) Best value: 2.26e+00, MG radius: 0.03125
+138) Best value: 2.26e+00, MG radius: 0.03125
+139) Best value: 2.26e+00, MG radius: 0.03125
+140) Best value: 2.26e+00, MG radius: 0.03125
+141) Best value: 2.26e+00, MG radius: 0.015625
+142) Best value: 2.30e+00, MG radius: 0.015625
+143) Best value: 2.30e+00, MG radius: 0.015625
+144) Best value: 2.30e+00, MG radius: 0.015625
+145) Best value: 2.33e+00, MG radius: 0.015625
+146) Best value: 2.33e+00, MG radius: 0.015625
+147) Best value: 2.33e+00, MG radius: 0.015625
+148) Best value: 2.33e+00, MG radius: 0.015625
+149) Best value: 2.33e+00, MG radius: 0.0078125
+150) Best value: 2.33e+00, MG radius: 0.0078125
+151) Best value: 2.34e+00, MG radius: 0.0078125
+152) Best value: 2.34e+00, MG radius: 0.0078125
+153) Best value: 2.34e+00, MG radius: 0.015625
+154) Best value: 2.34e+00, MG radius: 0.015625
+155) Best value: 2.34e+00, MG radius: 0.015625
+156) Best value: 2.35e+00, MG radius: 0.0078125
+157) Best value: 2.35e+00, MG radius: 0.0078125
+158) Best value: 2.36e+00, MG radius: 0.0078125
+159) Best value: 2.36e+00, MG radius: 0.0078125
+160) Best value: 2.37e+00, MG radius: 0.0078125
+161) Best value: 2.37e+00, MG radius: 0.0078125
+162) Best value: 2.38e+00, MG radius: 0.0078125
+163) Best value: 2.38e+00, MG radius: 0.0078125
+164) Best value: 2.38e+00, MG radius: 0.0078125
+165) Best value: 2.38e+00, MG radius: 0.0078125
+166) No feasible point yet! Smallest total violation: 3.83e+01, MG radius: 1.0
+167) No feasible point yet! Smallest total violation: 3.83e+01, MG radius: 1.0
+168) No feasible point yet! Smallest total violation: 2.97e+01, MG radius: 1.0
+169) No feasible point yet! Smallest total violation: 1.28e+01, MG radius: 1.0
+170) No feasible point yet! Smallest total violation: 1.12e+01, MG radius: 1.0
+171) No feasible point yet! Smallest total violation: 9.80e+00, MG radius: 1.0
+172) No feasible point yet! Smallest total violation: 9.50e+00, MG radius: 1.0
+173) No feasible point yet! Smallest total violation: 7.47e+00, MG radius: 1.0
+174) No feasible point yet! Smallest total violation: 6.87e+00, MG radius: 1.0
+175) No feasible point yet! Smallest total violation: 6.59e+00, MG radius: 1.0
+176) No feasible point yet! Smallest total violation: 6.19e+00, MG radius: 1.0
+177) No feasible point yet! Smallest total violation: 4.57e+00, MG radius: 1.0
+178) No feasible point yet! Smallest total violation: 4.29e+00, MG radius: 1.0
+179) No feasible point yet! Smallest total violation: 4.29e+00, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 2.71e+00, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 2.50e+00, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 2.50e+00, MG radius: 1.0
+183) No feasible point yet! Smallest total violation: 1.79e+00, MG radius: 1.0
+184) No feasible point yet! Smallest total violation: 1.26e+00, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 1.26e+00, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 1.04e+00, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 1.04e+00, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 1.04e+00, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 1.04e+00, MG radius: 1.0
+190) No feasible point yet! Smallest total violation: 6.55e-01, MG radius: 0.5
+191) No feasible point yet! Smallest total violation: 1.42e-01, MG radius: 0.5
+192) No feasible point yet! Smallest total violation: 1.42e-01, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 1.42e-01, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 1.42e-01, MG radius: 1.0
+195) No feasible point yet! Smallest total violation: 1.42e-01, MG radius: 0.5
+196) Best value: 1.65e+00, MG radius: 0.5
+197) Best value: 2.02e+00, MG radius: 0.5
+198) Best value: 2.02e+00, MG radius: 1.0
+199) Best value: 2.02e+00, MG radius: 1.0
+Iteration: 6; Random seed: 968644
+0) No feasible point yet! Smallest total violation: 4.47e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 2.88e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 2.69e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.48e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.10e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 9.55e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 7.30e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 7.14e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 7.14e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 5.93e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 5.93e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 4.85e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 4.12e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 3.66e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 2.16e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 2.16e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.16e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 1.85e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.54e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.54e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 9.24e-01, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 9.24e-01, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 9.24e-01, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 6.44e-01, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 6.44e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 6.44e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 6.44e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 2.84e-01, MG radius: 0.5
+28) No feasible point yet! Smallest total violation: 2.84e-01, MG radius: 0.5
+29) No feasible point yet! Smallest total violation: 2.18e-01, MG radius: 0.5
+30) No feasible point yet! Smallest total violation: 1.33e-01, MG radius: 0.5
+31) No feasible point yet! Smallest total violation: 1.33e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 1.33e-01, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 1.33e-01, MG radius: 1.0
+34) No feasible point yet! Smallest total violation: 5.85e-02, MG radius: 0.5
+35) No feasible point yet! Smallest total violation: 5.85e-02, MG radius: 0.5
+36) No feasible point yet! Smallest total violation: 2.94e-02, MG radius: 0.5
+37) No feasible point yet! Smallest total violation: 7.47e-03, MG radius: 0.5
+38) No feasible point yet! Smallest total violation: 7.47e-03, MG radius: 1.0
+39) No feasible point yet! Smallest total violation: 7.47e-03, MG radius: 1.0
+40) No feasible point yet! Smallest total violation: 7.47e-03, MG radius: 1.0
+41) Best value: 2.01e+00, MG radius: 0.5
+42) Best value: 2.01e+00, MG radius: 0.5
+43) Best value: 2.12e+00, MG radius: 0.5
+44) Best value: 2.12e+00, MG radius: 0.5
+45) Best value: 2.12e+00, MG radius: 0.5
+46) Best value: 2.12e+00, MG radius: 0.5
+47) Best value: 2.12e+00, MG radius: 0.25
+48) Best value: 2.12e+00, MG radius: 0.25
+49) Best value: 2.14e+00, MG radius: 0.25
+50) Best value: 2.14e+00, MG radius: 0.25
+51) Best value: 2.16e+00, MG radius: 0.25
+52) Best value: 2.16e+00, MG radius: 0.25
+53) Best value: 2.18e+00, MG radius: 0.25
+54) Best value: 2.22e+00, MG radius: 0.25
+55) Best value: 2.22e+00, MG radius: 0.5
+56) Best value: 2.22e+00, MG radius: 0.5
+57) Best value: 2.22e+00, MG radius: 0.5
+58) Best value: 2.22e+00, MG radius: 0.25
+59) Best value: 2.22e+00, MG radius: 0.25
+60) Best value: 2.24e+00, MG radius: 0.25
+61) Best value: 2.24e+00, MG radius: 0.25
+62) Best value: 2.24e+00, MG radius: 0.25
+63) Best value: 2.26e+00, MG radius: 0.25
+64) Best value: 2.26e+00, MG radius: 0.25
+65) Best value: 2.26e+00, MG radius: 0.25
+66) Best value: 2.26e+00, MG radius: 0.25
+67) Best value: 2.26e+00, MG radius: 0.125
+68) Best value: 2.26e+00, MG radius: 0.125
+69) Best value: 2.27e+00, MG radius: 0.125
+70) Best value: 2.27e+00, MG radius: 0.125
+71) Best value: 2.29e+00, MG radius: 0.125
+72) Best value: 2.29e+00, MG radius: 0.125
+73) Best value: 2.29e+00, MG radius: 0.125
+74) Best value: 2.29e+00, MG radius: 0.125
+75) Best value: 2.29e+00, MG radius: 0.0625
+76) Best value: 2.29e+00, MG radius: 0.0625
+77) Best value: 2.29e+00, MG radius: 0.0625
+78) Best value: 2.29e+00, MG radius: 0.03125
+79) Best value: 2.29e+00, MG radius: 0.03125
+80) Best value: 2.29e+00, MG radius: 0.03125
+81) Best value: 2.29e+00, MG radius: 0.015625
+82) Best value: 2.32e+00, MG radius: 0.015625
+83) Best value: 2.32e+00, MG radius: 0.015625
+84) Best value: 2.32e+00, MG radius: 0.015625
+85) Best value: 2.32e+00, MG radius: 0.015625
+86) Best value: 2.33e+00, MG radius: 0.0078125
+87) Best value: 2.36e+00, MG radius: 0.0078125
+88) Best value: 2.36e+00, MG radius: 0.015625
+89) Best value: 2.36e+00, MG radius: 0.015625
+90) Best value: 2.36e+00, MG radius: 0.015625
+91) Best value: 2.36e+00, MG radius: 0.0078125
+92) Best value: 2.36e+00, MG radius: 0.0078125
+93) Best value: 2.37e+00, MG radius: 0.0078125
+94) Best value: 2.37e+00, MG radius: 0.0078125
+95) Best value: 2.37e+00, MG radius: 0.0078125
+96) Best value: 2.37e+00, MG radius: 0.0078125
+97) No feasible point yet! Smallest total violation: 1.28e+01, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 1.16e+01, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 1.16e+01, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 1.16e+01, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 1.07e+01, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 9.85e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 9.60e+00, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 7.81e+00, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 7.81e+00, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 6.36e+00, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 6.36e+00, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 4.52e+00, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 4.52e+00, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 3.08e+00, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 3.08e+00, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 2.85e+00, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 1.74e+00, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 1.44e+00, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 1.44e+00, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 1.28e+00, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 1.02e+00, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 1.02e+00, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 7.84e-01, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 7.84e-01, MG radius: 1.0
+121) No feasible point yet! Smallest total violation: 7.14e-01, MG radius: 1.0
+122) No feasible point yet! Smallest total violation: 7.14e-01, MG radius: 1.0
+123) No feasible point yet! Smallest total violation: 7.14e-01, MG radius: 1.0
+124) No feasible point yet! Smallest total violation: 6.55e-01, MG radius: 1.0
+125) No feasible point yet! Smallest total violation: 6.55e-01, MG radius: 1.0
+126) No feasible point yet! Smallest total violation: 4.81e-01, MG radius: 1.0
+127) No feasible point yet! Smallest total violation: 3.08e-01, MG radius: 1.0
+128) No feasible point yet! Smallest total violation: 3.08e-01, MG radius: 1.0
+129) No feasible point yet! Smallest total violation: 3.08e-01, MG radius: 1.0
+130) No feasible point yet! Smallest total violation: 3.08e-01, MG radius: 1.0
+131) Best value: 2.03e+00, MG radius: 0.5
+132) Best value: 2.03e+00, MG radius: 0.5
+133) Best value: 2.22e+00, MG radius: 0.5
+134) Best value: 2.22e+00, MG radius: 0.5
+135) Best value: 2.22e+00, MG radius: 0.5
+136) Best value: 2.22e+00, MG radius: 0.5
+137) Best value: 2.22e+00, MG radius: 0.25
+138) Best value: 2.22e+00, MG radius: 0.25
+139) Best value: 2.22e+00, MG radius: 0.25
+140) Best value: 2.22e+00, MG radius: 0.125
+141) Best value: 2.22e+00, MG radius: 0.125
+142) Best value: 2.22e+00, MG radius: 0.125
+143) Best value: 2.22e+00, MG radius: 0.0625
+144) Best value: 2.25e+00, MG radius: 0.0625
+145) Best value: 2.25e+00, MG radius: 0.0625
+146) Best value: 2.25e+00, MG radius: 0.0625
+147) Best value: 2.25e+00, MG radius: 0.0625
+148) Best value: 2.25e+00, MG radius: 0.03125
+149) Best value: 2.25e+00, MG radius: 0.03125
+150) Best value: 2.25e+00, MG radius: 0.03125
+151) Best value: 2.25e+00, MG radius: 0.015625
+152) Best value: 2.25e+00, MG radius: 0.015625
+153) Best value: 2.27e+00, MG radius: 0.015625
+154) No feasible point yet! Smallest total violation: 2.43e+01, MG radius: 1.0
+155) No feasible point yet! Smallest total violation: 1.08e+01, MG radius: 1.0
+156) No feasible point yet! Smallest total violation: 1.08e+01, MG radius: 1.0
+157) No feasible point yet! Smallest total violation: 1.08e+01, MG radius: 1.0
+158) No feasible point yet! Smallest total violation: 9.03e+00, MG radius: 1.0
+159) No feasible point yet! Smallest total violation: 9.03e+00, MG radius: 1.0
+160) No feasible point yet! Smallest total violation: 6.14e+00, MG radius: 1.0
+161) No feasible point yet! Smallest total violation: 5.75e+00, MG radius: 1.0
+162) No feasible point yet! Smallest total violation: 5.75e+00, MG radius: 1.0
+163) No feasible point yet! Smallest total violation: 4.44e+00, MG radius: 1.0
+164) No feasible point yet! Smallest total violation: 4.17e+00, MG radius: 1.0
+165) No feasible point yet! Smallest total violation: 3.84e+00, MG radius: 1.0
+166) No feasible point yet! Smallest total violation: 3.79e+00, MG radius: 1.0
+167) No feasible point yet! Smallest total violation: 3.43e+00, MG radius: 1.0
+168) No feasible point yet! Smallest total violation: 1.99e+00, MG radius: 1.0
+169) No feasible point yet! Smallest total violation: 1.99e+00, MG radius: 1.0
+170) No feasible point yet! Smallest total violation: 1.84e+00, MG radius: 1.0
+171) No feasible point yet! Smallest total violation: 1.63e+00, MG radius: 1.0
+172) No feasible point yet! Smallest total violation: 1.30e+00, MG radius: 1.0
+173) No feasible point yet! Smallest total violation: 1.30e+00, MG radius: 1.0
+174) No feasible point yet! Smallest total violation: 1.30e+00, MG radius: 1.0
+175) No feasible point yet! Smallest total violation: 1.02e+00, MG radius: 1.0
+176) No feasible point yet! Smallest total violation: 6.48e-01, MG radius: 1.0
+177) No feasible point yet! Smallest total violation: 6.48e-01, MG radius: 1.0
+178) No feasible point yet! Smallest total violation: 6.46e-01, MG radius: 1.0
+179) No feasible point yet! Smallest total violation: 6.46e-01, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 5.88e-01, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 5.88e-01, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 5.88e-01, MG radius: 1.0
+183) No feasible point yet! Smallest total violation: 5.88e-01, MG radius: 1.0
+184) No feasible point yet! Smallest total violation: 1.36e-01, MG radius: 0.5
+185) No feasible point yet! Smallest total violation: 1.69e-02, MG radius: 0.5
+186) No feasible point yet! Smallest total violation: 1.69e-02, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 1.69e-02, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 1.69e-02, MG radius: 1.0
+189) Best value: 2.18e+00, MG radius: 0.5
+190) Best value: 2.27e+00, MG radius: 0.5
+191) Best value: 2.27e+00, MG radius: 1.0
+192) Best value: 2.27e+00, MG radius: 1.0
+193) Best value: 2.27e+00, MG radius: 1.0
+194) Best value: 2.27e+00, MG radius: 0.5
+195) Best value: 2.27e+00, MG radius: 0.5
+196) Best value: 2.27e+00, MG radius: 0.5
+197) Best value: 2.27e+00, MG radius: 0.25
+198) Best value: 2.27e+00, MG radius: 0.25
+199) Best value: 2.27e+00, MG radius: 0.25
+Iteration: 7; Random seed: 108034
+0) No feasible point yet! Smallest total violation: 4.24e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 2.72e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.26e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.15e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.01e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 9.94e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 9.94e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 9.94e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 8.20e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 8.20e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 7.58e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 6.34e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 5.33e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 4.44e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 3.39e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 3.39e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.81e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 2.30e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.51e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.51e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.19e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.16e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 1.16e+00, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 1.16e+00, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 6.06e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 6.06e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 6.06e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 3.74e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 3.74e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 3.74e-01, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 3.74e-01, MG radius: 1.0
+31) No feasible point yet! Smallest total violation: 2.36e-01, MG radius: 0.5
+32) Best value: 2.18e+00, MG radius: 0.5
+33) Best value: 2.18e+00, MG radius: 1.0
+34) Best value: 2.18e+00, MG radius: 1.0
+35) Best value: 2.18e+00, MG radius: 1.0
+36) Best value: 2.18e+00, MG radius: 0.5
+37) Best value: 2.18e+00, MG radius: 0.5
+38) Best value: 2.18e+00, MG radius: 0.5
+39) Best value: 2.18e+00, MG radius: 0.25
+40) Best value: 2.18e+00, MG radius: 0.25
+41) Best value: 2.18e+00, MG radius: 0.25
+42) Best value: 2.23e+00, MG radius: 0.125
+43) Best value: 2.23e+00, MG radius: 0.125
+44) Best value: 2.24e+00, MG radius: 0.125
+45) Best value: 2.26e+00, MG radius: 0.125
+46) Best value: 2.26e+00, MG radius: 0.25
+47) Best value: 2.26e+00, MG radius: 0.25
+48) Best value: 2.26e+00, MG radius: 0.25
+49) Best value: 2.26e+00, MG radius: 0.125
+50) Best value: 2.26e+00, MG radius: 0.125
+51) Best value: 2.26e+00, MG radius: 0.125
+52) Best value: 2.26e+00, MG radius: 0.125
+53) Best value: 2.26e+00, MG radius: 0.125
+54) Best value: 2.26e+00, MG radius: 0.125
+55) Best value: 2.26e+00, MG radius: 0.0625
+56) Best value: 2.26e+00, MG radius: 0.0625
+57) Best value: 2.26e+00, MG radius: 0.0625
+58) Best value: 2.26e+00, MG radius: 0.03125
+59) Best value: 2.26e+00, MG radius: 0.03125
+60) Best value: 2.26e+00, MG radius: 0.03125
+61) Best value: 2.30e+00, MG radius: 0.015625
+62) Best value: 2.30e+00, MG radius: 0.015625
+63) Best value: 2.31e+00, MG radius: 0.015625
+64) Best value: 2.35e+00, MG radius: 0.015625
+65) Best value: 2.35e+00, MG radius: 0.03125
+66) Best value: 2.35e+00, MG radius: 0.03125
+67) Best value: 2.35e+00, MG radius: 0.03125
+68) Best value: 2.35e+00, MG radius: 0.015625
+69) Best value: 2.35e+00, MG radius: 0.015625
+70) Best value: 2.35e+00, MG radius: 0.015625
+71) Best value: 2.35e+00, MG radius: 0.0078125
+72) Best value: 2.35e+00, MG radius: 0.0078125
+73) Best value: 2.35e+00, MG radius: 0.015625
+74) Best value: 2.35e+00, MG radius: 0.015625
+75) Best value: 2.35e+00, MG radius: 0.015625
+76) Best value: 2.35e+00, MG radius: 0.0078125
+77) Best value: 2.37e+00, MG radius: 0.0078125
+78) Best value: 2.37e+00, MG radius: 0.0078125
+79) Best value: 2.38e+00, MG radius: 0.0078125
+80) Best value: 2.38e+00, MG radius: 0.0078125
+81) Best value: 2.38e+00, MG radius: 0.015625
+82) Best value: 2.38e+00, MG radius: 0.015625
+83) Best value: 2.38e+00, MG radius: 0.015625
+84) Best value: 2.38e+00, MG radius: 0.0078125
+85) Best value: 2.38e+00, MG radius: 0.0078125
+86) Best value: 2.39e+00, MG radius: 0.0078125
+87) Best value: 2.39e+00, MG radius: 0.0078125
+88) Best value: 2.39e+00, MG radius: 0.0078125
+89) Best value: 2.39e+00, MG radius: 0.0078125
+90) Best value: 2.39e+00, MG radius: 0.0078125
+91) Best value: 2.39e+00, MG radius: 0.0078125
+92) Best value: 2.39e+00, MG radius: 0.0078125
+93) No feasible point yet! Smallest total violation: 2.56e+01, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 1.23e+01, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 1.23e+01, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 8.64e+00, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 8.64e+00, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 7.78e+00, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 7.77e+00, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 7.71e+00, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 6.83e+00, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 5.96e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 5.96e+00, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 5.21e+00, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 5.21e+00, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 3.45e+00, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 2.99e+00, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 2.24e+00, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 1.98e+00, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 1.98e+00, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 1.24e+00, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 1.09e+00, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 1.09e+00, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 1.09e+00, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 1.01e+00, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 8.16e-01, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 8.16e-01, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 8.16e-01, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 4.08e-01, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 2.89e-01, MG radius: 1.0
+121) No feasible point yet! Smallest total violation: 2.89e-01, MG radius: 1.0
+122) No feasible point yet! Smallest total violation: 2.89e-01, MG radius: 1.0
+123) No feasible point yet! Smallest total violation: 2.89e-01, MG radius: 1.0
+124) No feasible point yet! Smallest total violation: 1.06e-01, MG radius: 0.5
+125) No feasible point yet! Smallest total violation: 1.06e-01, MG radius: 0.5
+126) No feasible point yet! Smallest total violation: 7.93e-02, MG radius: 0.5
+127) No feasible point yet! Smallest total violation: 7.93e-02, MG radius: 0.5
+128) Best value: 2.15e+00, MG radius: 0.5
+129) Best value: 2.15e+00, MG radius: 0.5
+130) Best value: 2.15e+00, MG radius: 0.5
+131) Best value: 2.15e+00, MG radius: 0.5
+132) Best value: 2.19e+00, MG radius: 0.25
+133) Best value: 2.22e+00, MG radius: 0.25
+134) Best value: 2.22e+00, MG radius: 0.5
+135) Best value: 2.22e+00, MG radius: 0.5
+136) Best value: 2.22e+00, MG radius: 0.5
+137) Best value: 2.25e+00, MG radius: 0.25
+138) Best value: 2.25e+00, MG radius: 0.25
+139) Best value: 2.25e+00, MG radius: 0.25
+140) Best value: 2.25e+00, MG radius: 0.25
+141) Best value: 2.25e+00, MG radius: 0.125
+142) Best value: 2.27e+00, MG radius: 0.125
+143) Best value: 2.27e+00, MG radius: 0.125
+144) Best value: 2.27e+00, MG radius: 0.125
+145) Best value: 2.27e+00, MG radius: 0.125
+146) Best value: 2.27e+00, MG radius: 0.0625
+147) Best value: 2.27e+00, MG radius: 0.0625
+148) Best value: 2.27e+00, MG radius: 0.0625
+149) Best value: 2.27e+00, MG radius: 0.03125
+150) Best value: 2.27e+00, MG radius: 0.03125
+151) Best value: 2.27e+00, MG radius: 0.03125
+152) Best value: 2.27e+00, MG radius: 0.015625
+153) Best value: 2.27e+00, MG radius: 0.015625
+154) Best value: 2.27e+00, MG radius: 0.015625
+155) Best value: 2.29e+00, MG radius: 0.0078125
+156) Best value: 2.29e+00, MG radius: 0.0078125
+157) Best value: 2.29e+00, MG radius: 0.0078125
+158) Best value: 2.29e+00, MG radius: 0.0078125
+159) No feasible point yet! Smallest total violation: 2.21e+01, MG radius: 1.0
+160) No feasible point yet! Smallest total violation: 1.13e+01, MG radius: 1.0
+161) No feasible point yet! Smallest total violation: 1.02e+01, MG radius: 1.0
+162) No feasible point yet! Smallest total violation: 8.64e+00, MG radius: 1.0
+163) No feasible point yet! Smallest total violation: 8.64e+00, MG radius: 1.0
+164) No feasible point yet! Smallest total violation: 8.25e+00, MG radius: 1.0
+165) No feasible point yet! Smallest total violation: 8.25e+00, MG radius: 1.0
+166) No feasible point yet! Smallest total violation: 6.98e+00, MG radius: 1.0
+167) No feasible point yet! Smallest total violation: 6.98e+00, MG radius: 1.0
+168) No feasible point yet! Smallest total violation: 6.50e+00, MG radius: 1.0
+169) No feasible point yet! Smallest total violation: 5.91e+00, MG radius: 1.0
+170) No feasible point yet! Smallest total violation: 5.52e+00, MG radius: 1.0
+171) No feasible point yet! Smallest total violation: 4.33e+00, MG radius: 1.0
+172) No feasible point yet! Smallest total violation: 3.47e+00, MG radius: 1.0
+173) No feasible point yet! Smallest total violation: 2.77e+00, MG radius: 1.0
+174) No feasible point yet! Smallest total violation: 1.49e+00, MG radius: 1.0
+175) No feasible point yet! Smallest total violation: 1.49e+00, MG radius: 1.0
+176) No feasible point yet! Smallest total violation: 1.49e+00, MG radius: 1.0
+177) No feasible point yet! Smallest total violation: 1.49e+00, MG radius: 1.0
+178) No feasible point yet! Smallest total violation: 8.93e-01, MG radius: 0.5
+179) No feasible point yet! Smallest total violation: 8.93e-01, MG radius: 0.5
+180) No feasible point yet! Smallest total violation: 8.93e-01, MG radius: 0.5
+181) No feasible point yet! Smallest total violation: 5.58e-01, MG radius: 0.5
+182) No feasible point yet! Smallest total violation: 4.91e-01, MG radius: 0.5
+183) No feasible point yet! Smallest total violation: 4.91e-01, MG radius: 1.0
+184) No feasible point yet! Smallest total violation: 4.91e-01, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 4.91e-01, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 3.14e-01, MG radius: 0.5
+187) Best value: 1.95e+00, MG radius: 0.5
+188) Best value: 1.95e+00, MG radius: 1.0
+189) Best value: 1.95e+00, MG radius: 1.0
+190) Best value: 1.95e+00, MG radius: 1.0
+191) Best value: 1.95e+00, MG radius: 0.5
+192) Best value: 2.13e+00, MG radius: 0.5
+193) Best value: 2.13e+00, MG radius: 0.5
+194) Best value: 2.13e+00, MG radius: 0.5
+195) Best value: 2.13e+00, MG radius: 0.5
+196) Best value: 2.16e+00, MG radius: 0.25
+197) Best value: 2.16e+00, MG radius: 0.25
+198) Best value: 2.16e+00, MG radius: 0.25
+199) Best value: 2.18e+00, MG radius: 0.25
+Iteration: 8; Random seed: 112297
+0) No feasible point yet! Smallest total violation: 2.25e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 2.25e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 2.25e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.23e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.10e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 1.10e+01, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 1.06e+01, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 1.06e+01, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 6.91e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 5.91e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 5.11e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 3.77e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 3.40e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 3.21e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 2.70e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.33e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 2.33e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 2.32e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.44e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.28e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 9.55e-01, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 9.55e-01, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 9.55e-01, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 8.55e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 8.55e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 7.29e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 6.74e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 6.74e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 6.74e-01, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 5.65e-01, MG radius: 1.0
+31) No feasible point yet! Smallest total violation: 4.73e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 4.13e-01, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 4.13e-01, MG radius: 1.0
+34) No feasible point yet! Smallest total violation: 4.13e-01, MG radius: 1.0
+35) No feasible point yet! Smallest total violation: 4.13e-01, MG radius: 1.0
+36) No feasible point yet! Smallest total violation: 7.75e-02, MG radius: 0.5
+37) No feasible point yet! Smallest total violation: 1.86e-02, MG radius: 0.5
+38) No feasible point yet! Smallest total violation: 1.86e-02, MG radius: 1.0
+39) No feasible point yet! Smallest total violation: 1.86e-02, MG radius: 1.0
+40) No feasible point yet! Smallest total violation: 1.86e-02, MG radius: 1.0
+41) No feasible point yet! Smallest total violation: 1.38e-03, MG radius: 0.5
+42) Best value: 2.01e+00, MG radius: 0.5
+43) Best value: 2.01e+00, MG radius: 1.0
+44) Best value: 2.01e+00, MG radius: 1.0
+45) Best value: 2.01e+00, MG radius: 1.0
+46) Best value: 2.17e+00, MG radius: 0.5
+47) Best value: 2.17e+00, MG radius: 0.5
+48) Best value: 2.17e+00, MG radius: 0.5
+49) Best value: 2.17e+00, MG radius: 0.5
+50) Best value: 2.17e+00, MG radius: 0.25
+51) Best value: 2.20e+00, MG radius: 0.25
+52) Best value: 2.20e+00, MG radius: 0.25
+53) Best value: 2.20e+00, MG radius: 0.25
+54) Best value: 2.20e+00, MG radius: 0.25
+55) Best value: 2.20e+00, MG radius: 0.25
+56) Best value: 2.20e+00, MG radius: 0.25
+57) Best value: 2.20e+00, MG radius: 0.125
+58) Best value: 2.20e+00, MG radius: 0.125
+59) Best value: 2.20e+00, MG radius: 0.125
+60) Best value: 2.23e+00, MG radius: 0.125
+61) Best value: 2.23e+00, MG radius: 0.125
+62) Best value: 2.23e+00, MG radius: 0.125
+63) Best value: 2.23e+00, MG radius: 0.125
+64) Best value: 2.23e+00, MG radius: 0.0625
+65) Best value: 2.23e+00, MG radius: 0.0625
+66) Best value: 2.26e+00, MG radius: 0.0625
+67) Best value: 2.26e+00, MG radius: 0.0625
+68) Best value: 2.26e+00, MG radius: 0.0625
+69) Best value: 2.26e+00, MG radius: 0.0625
+70) Best value: 2.26e+00, MG radius: 0.03125
+71) Best value: 2.26e+00, MG radius: 0.03125
+72) Best value: 2.26e+00, MG radius: 0.03125
+73) Best value: 2.26e+00, MG radius: 0.015625
+74) Best value: 2.26e+00, MG radius: 0.015625
+75) Best value: 2.27e+00, MG radius: 0.015625
+76) Best value: 2.27e+00, MG radius: 0.03125
+77) Best value: 2.27e+00, MG radius: 0.03125
+78) Best value: 2.27e+00, MG radius: 0.03125
+79) Best value: 2.27e+00, MG radius: 0.015625
+80) Best value: 2.27e+00, MG radius: 0.015625
+81) Best value: 2.28e+00, MG radius: 0.015625
+82) Best value: 2.33e+00, MG radius: 0.015625
+83) Best value: 2.33e+00, MG radius: 0.03125
+84) Best value: 2.33e+00, MG radius: 0.03125
+85) Best value: 2.33e+00, MG radius: 0.03125
+86) Best value: 2.33e+00, MG radius: 0.015625
+87) Best value: 2.33e+00, MG radius: 0.015625
+88) Best value: 2.33e+00, MG radius: 0.015625
+89) Best value: 2.33e+00, MG radius: 0.0078125
+90) Best value: 2.34e+00, MG radius: 0.0078125
+91) Best value: 2.34e+00, MG radius: 0.015625
+92) Best value: 2.34e+00, MG radius: 0.015625
+93) Best value: 2.34e+00, MG radius: 0.015625
+94) Best value: 2.34e+00, MG radius: 0.015625
+95) Best value: 2.34e+00, MG radius: 0.015625
+96) Best value: 2.36e+00, MG radius: 0.0078125
+97) Best value: 2.36e+00, MG radius: 0.0078125
+98) Best value: 2.36e+00, MG radius: 0.0078125
+99) Best value: 2.37e+00, MG radius: 0.0078125
+100) Best value: 2.38e+00, MG radius: 0.0078125
+101) Best value: 2.38e+00, MG radius: 0.015625
+102) Best value: 2.38e+00, MG radius: 0.015625
+103) Best value: 2.38e+00, MG radius: 0.015625
+104) Best value: 2.38e+00, MG radius: 0.0078125
+105) Best value: 2.38e+00, MG radius: 0.0078125
+106) Best value: 2.38e+00, MG radius: 0.0078125
+107) Best value: 2.39e+00, MG radius: 0.0078125
+108) Best value: 2.39e+00, MG radius: 0.0078125
+109) Best value: 2.39e+00, MG radius: 0.015625
+110) Best value: 2.39e+00, MG radius: 0.015625
+111) Best value: 2.39e+00, MG radius: 0.015625
+112) Best value: 2.39e+00, MG radius: 0.0078125
+113) Best value: 2.39e+00, MG radius: 0.0078125
+114) Best value: 2.39e+00, MG radius: 0.0078125
+115) No feasible point yet! Smallest total violation: 2.88e+01, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 2.32e+01, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 1.34e+01, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 1.17e+01, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 1.17e+01, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 1.02e+01, MG radius: 1.0
+121) No feasible point yet! Smallest total violation: 1.01e+01, MG radius: 1.0
+122) No feasible point yet! Smallest total violation: 9.96e+00, MG radius: 1.0
+123) No feasible point yet! Smallest total violation: 8.39e+00, MG radius: 1.0
+124) No feasible point yet! Smallest total violation: 8.39e+00, MG radius: 1.0
+125) No feasible point yet! Smallest total violation: 7.58e+00, MG radius: 1.0
+126) No feasible point yet! Smallest total violation: 5.66e+00, MG radius: 1.0
+127) No feasible point yet! Smallest total violation: 4.95e+00, MG radius: 1.0
+128) No feasible point yet! Smallest total violation: 4.83e+00, MG radius: 1.0
+129) No feasible point yet! Smallest total violation: 4.83e+00, MG radius: 1.0
+130) No feasible point yet! Smallest total violation: 3.51e+00, MG radius: 1.0
+131) No feasible point yet! Smallest total violation: 2.71e+00, MG radius: 1.0
+132) No feasible point yet! Smallest total violation: 2.71e+00, MG radius: 1.0
+133) No feasible point yet! Smallest total violation: 2.07e+00, MG radius: 1.0
+134) No feasible point yet! Smallest total violation: 2.07e+00, MG radius: 1.0
+135) No feasible point yet! Smallest total violation: 1.50e+00, MG radius: 1.0
+136) No feasible point yet! Smallest total violation: 1.32e+00, MG radius: 1.0
+137) No feasible point yet! Smallest total violation: 1.32e+00, MG radius: 1.0
+138) No feasible point yet! Smallest total violation: 1.32e+00, MG radius: 1.0
+139) No feasible point yet! Smallest total violation: 8.71e-01, MG radius: 1.0
+140) No feasible point yet! Smallest total violation: 8.33e-01, MG radius: 1.0
+141) No feasible point yet! Smallest total violation: 7.62e-01, MG radius: 1.0
+142) No feasible point yet! Smallest total violation: 7.62e-01, MG radius: 1.0
+143) No feasible point yet! Smallest total violation: 7.62e-01, MG radius: 1.0
+144) No feasible point yet! Smallest total violation: 7.62e-01, MG radius: 1.0
+145) No feasible point yet! Smallest total violation: 2.25e-01, MG radius: 0.5
+146) No feasible point yet! Smallest total violation: 1.39e-01, MG radius: 0.5
+147) No feasible point yet! Smallest total violation: 1.39e-01, MG radius: 1.0
+148) No feasible point yet! Smallest total violation: 1.39e-01, MG radius: 1.0
+149) No feasible point yet! Smallest total violation: 1.39e-01, MG radius: 1.0
+150) No feasible point yet! Smallest total violation: 1.24e-01, MG radius: 0.5
+151) Best value: 2.11e+00, MG radius: 0.5
+152) Best value: 2.11e+00, MG radius: 1.0
+153) Best value: 2.11e+00, MG radius: 1.0
+154) Best value: 2.11e+00, MG radius: 1.0
+155) Best value: 2.11e+00, MG radius: 0.5
+156) Best value: 2.11e+00, MG radius: 0.5
+157) Best value: 2.14e+00, MG radius: 0.5
+158) Best value: 2.14e+00, MG radius: 0.5
+159) Best value: 2.14e+00, MG radius: 1.0
+160) Best value: 2.14e+00, MG radius: 1.0
+161) Best value: 2.14e+00, MG radius: 1.0
+162) Best value: 2.14e+00, MG radius: 0.5
+163) Best value: 2.14e+00, MG radius: 0.5
+164) Best value: 2.14e+00, MG radius: 0.5
+165) Best value: 2.19e+00, MG radius: 0.25
+166) Best value: 2.19e+00, MG radius: 0.25
+167) Best value: 2.19e+00, MG radius: 0.25
+168) Best value: 2.20e+00, MG radius: 0.25
+169) Best value: 2.20e+00, MG radius: 0.25
+170) Best value: 2.21e+00, MG radius: 0.25
+171) Best value: 2.31e+00, MG radius: 0.25
+172) Best value: 2.31e+00, MG radius: 0.5
+173) Best value: 2.31e+00, MG radius: 0.5
+174) Best value: 2.31e+00, MG radius: 0.5
+175) Best value: 2.31e+00, MG radius: 0.25
+176) Best value: 2.31e+00, MG radius: 0.25
+177) Best value: 2.31e+00, MG radius: 0.25
+178) Best value: 2.31e+00, MG radius: 0.125
+179) Best value: 2.31e+00, MG radius: 0.125
+180) Best value: 2.31e+00, MG radius: 0.125
+181) Best value: 2.31e+00, MG radius: 0.0625
+182) Best value: 2.31e+00, MG radius: 0.0625
+183) Best value: 2.31e+00, MG radius: 0.0625
+184) Best value: 2.31e+00, MG radius: 0.03125
+185) Best value: 2.31e+00, MG radius: 0.03125
+186) Best value: 2.31e+00, MG radius: 0.03125
+187) Best value: 2.31e+00, MG radius: 0.015625
+188) Best value: 2.31e+00, MG radius: 0.015625
+189) Best value: 2.32e+00, MG radius: 0.015625
+190) Best value: 2.33e+00, MG radius: 0.015625
+191) Best value: 2.33e+00, MG radius: 0.03125
+192) Best value: 2.33e+00, MG radius: 0.03125
+193) Best value: 2.33e+00, MG radius: 0.03125
+194) Best value: 2.33e+00, MG radius: 0.015625
+195) Best value: 2.33e+00, MG radius: 0.015625
+196) Best value: 2.33e+00, MG radius: 0.015625
+197) Best value: 2.34e+00, MG radius: 0.0078125
+198) Best value: 2.35e+00, MG radius: 0.0078125
+199) Best value: 2.36e+00, MG radius: 0.015625
+Iteration: 9; Random seed: 623172
+0) No feasible point yet! Smallest total violation: 3.91e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.56e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.56e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.37e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 8.51e+00, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 8.50e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 6.82e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 6.82e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 6.82e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 6.23e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 6.23e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 4.69e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 4.30e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 3.19e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 3.19e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 2.19e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.19e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 1.05e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.05e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 8.02e-01, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 8.02e-01, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 8.02e-01, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 8.02e-01, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 3.17e-01, MG radius: 0.5
+24) No feasible point yet! Smallest total violation: 3.17e-01, MG radius: 0.5
+25) No feasible point yet! Smallest total violation: 3.17e-01, MG radius: 0.5
+26) No feasible point yet! Smallest total violation: 3.17e-01, MG radius: 0.5
+27) No feasible point yet! Smallest total violation: 2.73e-01, MG radius: 0.25
+28) Best value: 1.59e+00, MG radius: 0.25
+29) Best value: 1.59e+00, MG radius: 0.5
+30) Best value: 2.09e+00, MG radius: 0.5
+31) Best value: 2.09e+00, MG radius: 0.5
+32) Best value: 2.09e+00, MG radius: 0.5
+33) Best value: 2.09e+00, MG radius: 0.5
+34) Best value: 2.11e+00, MG radius: 0.25
+35) Best value: 2.16e+00, MG radius: 0.25
+36) Best value: 2.16e+00, MG radius: 0.5
+37) Best value: 2.16e+00, MG radius: 0.5
+38) Best value: 2.16e+00, MG radius: 0.5
+39) Best value: 2.20e+00, MG radius: 0.25
+40) Best value: 2.20e+00, MG radius: 0.25
+41) Best value: 2.20e+00, MG radius: 0.25
+42) Best value: 2.20e+00, MG radius: 0.25
+43) Best value: 2.28e+00, MG radius: 0.125
+44) Best value: 2.28e+00, MG radius: 0.125
+45) Best value: 2.28e+00, MG radius: 0.125
+46) Best value: 2.28e+00, MG radius: 0.125
+47) Best value: 2.28e+00, MG radius: 0.0625
+48) Best value: 2.28e+00, MG radius: 0.0625
+49) Best value: 2.28e+00, MG radius: 0.0625
+50) Best value: 2.28e+00, MG radius: 0.03125
+51) Best value: 2.28e+00, MG radius: 0.03125
+52) Best value: 2.28e+00, MG radius: 0.03125
+53) Best value: 2.28e+00, MG radius: 0.015625
+54) Best value: 2.28e+00, MG radius: 0.015625
+55) Best value: 2.28e+00, MG radius: 0.015625
+56) Best value: 2.28e+00, MG radius: 0.0078125
+57) Best value: 2.31e+00, MG radius: 0.0078125
+58) Best value: 2.31e+00, MG radius: 0.0078125
+59) Best value: 2.32e+00, MG radius: 0.015625
+60) Best value: 2.32e+00, MG radius: 0.015625
+61) Best value: 2.33e+00, MG radius: 0.015625
+62) Best value: 2.33e+00, MG radius: 0.015625
+63) Best value: 2.34e+00, MG radius: 0.015625
+64) Best value: 2.34e+00, MG radius: 0.015625
+65) Best value: 2.34e+00, MG radius: 0.015625
+66) Best value: 2.35e+00, MG radius: 0.015625
+67) Best value: 2.35e+00, MG radius: 0.015625
+68) Best value: 2.35e+00, MG radius: 0.015625
+69) Best value: 2.35e+00, MG radius: 0.015625
+70) Best value: 2.36e+00, MG radius: 0.0078125
+71) Best value: 2.37e+00, MG radius: 0.0078125
+72) Best value: 2.37e+00, MG radius: 0.015625
+73) Best value: 2.37e+00, MG radius: 0.015625
+74) Best value: 2.37e+00, MG radius: 0.015625
+75) Best value: 2.37e+00, MG radius: 0.0078125
+76) Best value: 2.37e+00, MG radius: 0.0078125
+77) Best value: 2.38e+00, MG radius: 0.0078125
+78) Best value: 2.38e+00, MG radius: 0.0078125
+79) Best value: 2.38e+00, MG radius: 0.0078125
+80) Best value: 2.38e+00, MG radius: 0.0078125
+81) No feasible point yet! Smallest total violation: 1.75e+01, MG radius: 1.0
+82) No feasible point yet! Smallest total violation: 1.75e+01, MG radius: 1.0
+83) No feasible point yet! Smallest total violation: 1.11e+01, MG radius: 1.0
+84) No feasible point yet! Smallest total violation: 9.12e+00, MG radius: 1.0
+85) No feasible point yet! Smallest total violation: 9.12e+00, MG radius: 1.0
+86) No feasible point yet! Smallest total violation: 8.25e+00, MG radius: 1.0
+87) No feasible point yet! Smallest total violation: 8.25e+00, MG radius: 1.0
+88) No feasible point yet! Smallest total violation: 6.71e+00, MG radius: 1.0
+89) No feasible point yet! Smallest total violation: 6.49e+00, MG radius: 1.0
+90) No feasible point yet! Smallest total violation: 5.69e+00, MG radius: 1.0
+91) No feasible point yet! Smallest total violation: 5.13e+00, MG radius: 1.0
+92) No feasible point yet! Smallest total violation: 4.82e+00, MG radius: 1.0
+93) No feasible point yet! Smallest total violation: 3.68e+00, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 3.27e+00, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 2.54e+00, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 2.54e+00, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 1.83e+00, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 1.83e+00, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 1.06e+00, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 1.06e+00, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 9.75e-01, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 9.75e-01, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 9.70e-01, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 9.70e-01, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 9.70e-01, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 8.69e-01, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 8.69e-01, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 6.81e-01, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 6.15e-01, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 6.15e-01, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 6.15e-01, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 4.75e-01, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 3.11e-01, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 3.11e-01, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 3.11e-01, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 3.11e-01, MG radius: 1.0
+117) Best value: 2.22e+00, MG radius: 0.5
+118) Best value: 2.22e+00, MG radius: 0.5
+119) Best value: 2.22e+00, MG radius: 0.5
+120) Best value: 2.22e+00, MG radius: 0.5
+121) Best value: 2.22e+00, MG radius: 0.25
+122) Best value: 2.22e+00, MG radius: 0.25
+123) Best value: 2.22e+00, MG radius: 0.25
+124) Best value: 2.22e+00, MG radius: 0.125
+125) Best value: 2.22e+00, MG radius: 0.125
+126) Best value: 2.22e+00, MG radius: 0.125
+127) Best value: 2.22e+00, MG radius: 0.0625
+128) Best value: 2.22e+00, MG radius: 0.0625
+129) Best value: 2.22e+00, MG radius: 0.0625
+130) Best value: 2.22e+00, MG radius: 0.0625
+131) Best value: 2.24e+00, MG radius: 0.0625
+132) Best value: 2.24e+00, MG radius: 0.0625
+133) Best value: 2.24e+00, MG radius: 0.0625
+134) Best value: 2.24e+00, MG radius: 0.0625
+135) Best value: 2.24e+00, MG radius: 0.03125
+136) Best value: 2.27e+00, MG radius: 0.03125
+137) Best value: 2.27e+00, MG radius: 0.03125
+138) Best value: 2.27e+00, MG radius: 0.03125
+139) Best value: 2.27e+00, MG radius: 0.03125
+140) Best value: 2.28e+00, MG radius: 0.015625
+141) Best value: 2.28e+00, MG radius: 0.015625
+142) Best value: 2.28e+00, MG radius: 0.015625
+143) Best value: 2.29e+00, MG radius: 0.015625
+144) Best value: 2.29e+00, MG radius: 0.015625
+145) Best value: 2.29e+00, MG radius: 0.03125
+146) Best value: 2.29e+00, MG radius: 0.03125
+147) Best value: 2.29e+00, MG radius: 0.03125
+148) Best value: 2.29e+00, MG radius: 0.015625
+149) Best value: 2.29e+00, MG radius: 0.015625
+150) Best value: 2.29e+00, MG radius: 0.015625
+151) Best value: 2.31e+00, MG radius: 0.0078125
+152) Best value: 2.33e+00, MG radius: 0.0078125
+153) Best value: 2.33e+00, MG radius: 0.015625
+154) Best value: 2.33e+00, MG radius: 0.015625
+155) Best value: 2.33e+00, MG radius: 0.015625
+156) Best value: 2.34e+00, MG radius: 0.0078125
+157) Best value: 2.34e+00, MG radius: 0.0078125
+158) Best value: 2.35e+00, MG radius: 0.015625
+159) Best value: 2.35e+00, MG radius: 0.015625
+160) Best value: 2.35e+00, MG radius: 0.015625
+161) Best value: 2.35e+00, MG radius: 0.015625
+162) Best value: 2.36e+00, MG radius: 0.0078125
+163) Best value: 2.36e+00, MG radius: 0.0078125
+164) Best value: 2.37e+00, MG radius: 0.0078125
+165) Best value: 2.37e+00, MG radius: 0.0078125
+166) Best value: 2.37e+00, MG radius: 0.0078125
+167) Best value: 2.37e+00, MG radius: 0.0078125
+168) No feasible point yet! Smallest total violation: 3.93e+01, MG radius: 1.0
+169) No feasible point yet! Smallest total violation: 3.15e+01, MG radius: 1.0
+170) No feasible point yet! Smallest total violation: 1.26e+01, MG radius: 1.0
+171) No feasible point yet! Smallest total violation: 1.26e+01, MG radius: 1.0
+172) No feasible point yet! Smallest total violation: 8.51e+00, MG radius: 1.0
+173) No feasible point yet! Smallest total violation: 6.08e+00, MG radius: 1.0
+174) No feasible point yet! Smallest total violation: 6.08e+00, MG radius: 1.0
+175) No feasible point yet! Smallest total violation: 6.08e+00, MG radius: 1.0
+176) No feasible point yet! Smallest total violation: 5.03e+00, MG radius: 1.0
+177) No feasible point yet! Smallest total violation: 5.03e+00, MG radius: 1.0
+178) No feasible point yet! Smallest total violation: 4.44e+00, MG radius: 1.0
+179) No feasible point yet! Smallest total violation: 4.44e+00, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 3.84e+00, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 2.98e+00, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 2.56e+00, MG radius: 1.0
+183) No feasible point yet! Smallest total violation: 2.56e+00, MG radius: 1.0
+184) No feasible point yet! Smallest total violation: 1.88e+00, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 1.48e+00, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 1.48e+00, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 1.48e+00, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 1.48e+00, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 9.46e-01, MG radius: 0.5
+190) No feasible point yet! Smallest total violation: 4.10e-01, MG radius: 0.5
+191) No feasible point yet! Smallest total violation: 4.10e-01, MG radius: 1.0
+192) No feasible point yet! Smallest total violation: 4.10e-01, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 4.10e-01, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 3.84e-01, MG radius: 0.5
+195) No feasible point yet! Smallest total violation: 3.84e-01, MG radius: 0.5
+196) No feasible point yet! Smallest total violation: 3.84e-01, MG radius: 0.5
+197) No feasible point yet! Smallest total violation: 1.08e-01, MG radius: 0.5
+198) No feasible point yet! Smallest total violation: 5.30e-02, MG radius: 0.5
+199) No feasible point yet! Smallest total violation: 5.30e-02, MG radius: 1.0
+Iteration: 10; Random seed: 8759
+0) No feasible point yet! Smallest total violation: 1.82e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.73e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.03e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.03e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.01e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 8.46e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 8.46e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 6.38e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 6.33e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 6.33e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 6.33e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 4.93e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 4.93e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 4.07e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 3.53e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 1.51e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 1.51e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 1.51e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.51e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 7.85e-01, MG radius: 0.5
+20) No feasible point yet! Smallest total violation: 7.73e-01, MG radius: 0.5
+21) No feasible point yet! Smallest total violation: 7.73e-01, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 7.73e-01, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 3.91e-01, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 3.91e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 3.91e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 3.91e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 1.86e-01, MG radius: 0.5
+28) No feasible point yet! Smallest total violation: 1.82e-01, MG radius: 0.5
+29) No feasible point yet! Smallest total violation: 1.82e-01, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 1.82e-01, MG radius: 1.0
+31) No feasible point yet! Smallest total violation: 1.82e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 1.10e-01, MG radius: 0.5
+33) No feasible point yet! Smallest total violation: 1.10e-01, MG radius: 0.5
+34) Best value: 2.14e+00, MG radius: 0.5
+35) Best value: 2.14e+00, MG radius: 0.5
+36) Best value: 2.14e+00, MG radius: 0.5
+37) Best value: 2.14e+00, MG radius: 0.5
+38) Best value: 2.14e+00, MG radius: 0.25
+39) Best value: 2.14e+00, MG radius: 0.25
+40) Best value: 2.15e+00, MG radius: 0.25
+41) Best value: 2.17e+00, MG radius: 0.25
+42) Best value: 2.17e+00, MG radius: 0.5
+43) Best value: 2.17e+00, MG radius: 0.5
+44) Best value: 2.17e+00, MG radius: 0.5
+45) Best value: 2.17e+00, MG radius: 0.25
+46) Best value: 2.17e+00, MG radius: 0.25
+47) Best value: 2.20e+00, MG radius: 0.25
+48) Best value: 2.20e+00, MG radius: 0.25
+49) Best value: 2.20e+00, MG radius: 0.25
+50) Best value: 2.20e+00, MG radius: 0.25
+51) Best value: 2.20e+00, MG radius: 0.125
+52) Best value: 2.20e+00, MG radius: 0.125
+53) Best value: 2.20e+00, MG radius: 0.125
+54) Best value: 2.20e+00, MG radius: 0.0625
+55) Best value: 2.20e+00, MG radius: 0.0625
+56) Best value: 2.20e+00, MG radius: 0.0625
+57) Best value: 2.20e+00, MG radius: 0.0625
+58) Best value: 2.21e+00, MG radius: 0.03125
+59) Best value: 2.21e+00, MG radius: 0.03125
+60) Best value: 2.21e+00, MG radius: 0.03125
+61) Best value: 2.21e+00, MG radius: 0.03125
+62) Best value: 2.21e+00, MG radius: 0.015625
+63) Best value: 2.22e+00, MG radius: 0.015625
+64) Best value: 2.23e+00, MG radius: 0.015625
+65) Best value: 2.23e+00, MG radius: 0.03125
+66) Best value: 2.23e+00, MG radius: 0.03125
+67) Best value: 2.25e+00, MG radius: 0.03125
+68) Best value: 2.25e+00, MG radius: 0.03125
+69) Best value: 2.25e+00, MG radius: 0.03125
+70) Best value: 2.25e+00, MG radius: 0.03125
+71) Best value: 2.27e+00, MG radius: 0.015625
+72) Best value: 2.27e+00, MG radius: 0.015625
+73) Best value: 2.27e+00, MG radius: 0.015625
+74) Best value: 2.31e+00, MG radius: 0.015625
+75) Best value: 2.31e+00, MG radius: 0.015625
+76) Best value: 2.31e+00, MG radius: 0.015625
+77) Best value: 2.35e+00, MG radius: 0.015625
+78) Best value: 2.35e+00, MG radius: 0.015625
+79) Best value: 2.35e+00, MG radius: 0.015625
+80) Best value: 2.35e+00, MG radius: 0.015625
+81) Best value: 2.35e+00, MG radius: 0.0078125
+82) Best value: 2.35e+00, MG radius: 0.0078125
+83) Best value: 2.36e+00, MG radius: 0.0078125
+84) Best value: 2.36e+00, MG radius: 0.0078125
+85) Best value: 2.36e+00, MG radius: 0.0078125
+86) Best value: 2.36e+00, MG radius: 0.0078125
+87) No feasible point yet! Smallest total violation: 1.60e+01, MG radius: 1.0
+88) No feasible point yet! Smallest total violation: 1.35e+01, MG radius: 1.0
+89) No feasible point yet! Smallest total violation: 1.28e+01, MG radius: 1.0
+90) No feasible point yet! Smallest total violation: 1.27e+01, MG radius: 1.0
+91) No feasible point yet! Smallest total violation: 1.12e+01, MG radius: 1.0
+92) No feasible point yet! Smallest total violation: 7.69e+00, MG radius: 1.0
+93) No feasible point yet! Smallest total violation: 7.69e+00, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 7.67e+00, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 7.67e+00, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 5.52e+00, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 5.52e+00, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 4.84e+00, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 4.57e+00, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 3.08e+00, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 2.20e+00, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 2.20e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 1.41e+00, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 1.41e+00, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 1.41e+00, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 1.04e+00, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 1.04e+00, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 1.04e+00, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 9.07e-01, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 9.07e-01, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 9.07e-01, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 9.07e-01, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 2.92e-01, MG radius: 0.5
+114) No feasible point yet! Smallest total violation: 1.37e-01, MG radius: 0.5
+115) No feasible point yet! Smallest total violation: 1.37e-01, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 1.37e-01, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 1.37e-01, MG radius: 1.0
+118) Best value: 1.75e+00, MG radius: 0.5
+119) Best value: 1.75e+00, MG radius: 0.5
+120) Best value: 1.99e+00, MG radius: 0.5
+121) Best value: 2.08e+00, MG radius: 0.5
+122) Best value: 2.08e+00, MG radius: 1.0
+123) Best value: 2.08e+00, MG radius: 1.0
+124) Best value: 2.08e+00, MG radius: 1.0
+125) Best value: 2.08e+00, MG radius: 0.5
+126) Best value: 2.22e+00, MG radius: 0.5
+127) Best value: 2.22e+00, MG radius: 0.5
+128) Best value: 2.22e+00, MG radius: 0.5
+129) Best value: 2.22e+00, MG radius: 0.5
+130) Best value: 2.22e+00, MG radius: 0.25
+131) Best value: 2.22e+00, MG radius: 0.25
+132) Best value: 2.22e+00, MG radius: 0.25
+133) Best value: 2.22e+00, MG radius: 0.125
+134) Best value: 2.22e+00, MG radius: 0.125
+135) Best value: 2.22e+00, MG radius: 0.125
+136) Best value: 2.27e+00, MG radius: 0.0625
+137) Best value: 2.27e+00, MG radius: 0.0625
+138) Best value: 2.27e+00, MG radius: 0.0625
+139) Best value: 2.27e+00, MG radius: 0.0625
+140) Best value: 2.27e+00, MG radius: 0.03125
+141) Best value: 2.27e+00, MG radius: 0.03125
+142) Best value: 2.27e+00, MG radius: 0.03125
+143) Best value: 2.27e+00, MG radius: 0.015625
+144) Best value: 2.28e+00, MG radius: 0.015625
+145) Best value: 2.29e+00, MG radius: 0.015625
+146) Best value: 2.29e+00, MG radius: 0.03125
+147) Best value: 2.29e+00, MG radius: 0.03125
+148) Best value: 2.29e+00, MG radius: 0.03125
+149) Best value: 2.29e+00, MG radius: 0.015625
+150) Best value: 2.29e+00, MG radius: 0.015625
+151) Best value: 2.31e+00, MG radius: 0.015625
+152) Best value: 2.32e+00, MG radius: 0.015625
+153) Best value: 2.32e+00, MG radius: 0.03125
+154) Best value: 2.32e+00, MG radius: 0.03125
+155) Best value: 2.32e+00, MG radius: 0.03125
+156) Best value: 2.32e+00, MG radius: 0.015625
+157) Best value: 2.32e+00, MG radius: 0.015625
+158) Best value: 2.32e+00, MG radius: 0.015625
+159) Best value: 2.32e+00, MG radius: 0.0078125
+160) Best value: 2.33e+00, MG radius: 0.0078125
+161) Best value: 2.33e+00, MG radius: 0.015625
+162) Best value: 2.33e+00, MG radius: 0.015625
+163) Best value: 2.33e+00, MG radius: 0.015625
+164) Best value: 2.36e+00, MG radius: 0.0078125
+165) Best value: 2.37e+00, MG radius: 0.0078125
+166) Best value: 2.37e+00, MG radius: 0.015625
+167) Best value: 2.37e+00, MG radius: 0.015625
+168) Best value: 2.37e+00, MG radius: 0.015625
+169) Best value: 2.37e+00, MG radius: 0.0078125
+170) Best value: 2.37e+00, MG radius: 0.0078125
+171) Best value: 2.37e+00, MG radius: 0.0078125
+172) Best value: 2.37e+00, MG radius: 0.0078125
+173) No feasible point yet! Smallest total violation: 1.87e+01, MG radius: 1.0
+174) No feasible point yet! Smallest total violation: 1.13e+01, MG radius: 1.0
+175) No feasible point yet! Smallest total violation: 1.06e+01, MG radius: 1.0
+176) No feasible point yet! Smallest total violation: 1.06e+01, MG radius: 1.0
+177) No feasible point yet! Smallest total violation: 7.89e+00, MG radius: 1.0
+178) No feasible point yet! Smallest total violation: 6.65e+00, MG radius: 1.0
+179) No feasible point yet! Smallest total violation: 6.65e+00, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 6.65e+00, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 6.65e+00, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 5.84e+00, MG radius: 0.5
+183) No feasible point yet! Smallest total violation: 4.88e+00, MG radius: 0.5
+184) No feasible point yet! Smallest total violation: 4.88e+00, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 4.03e+00, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 3.73e+00, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 2.94e+00, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 2.81e+00, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 2.54e+00, MG radius: 1.0
+190) No feasible point yet! Smallest total violation: 2.16e+00, MG radius: 1.0
+191) No feasible point yet! Smallest total violation: 1.59e+00, MG radius: 1.0
+192) No feasible point yet! Smallest total violation: 1.28e+00, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 1.28e+00, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 1.28e+00, MG radius: 1.0
+195) No feasible point yet! Smallest total violation: 1.28e+00, MG radius: 1.0
+196) No feasible point yet! Smallest total violation: 8.21e-01, MG radius: 0.5
+197) No feasible point yet! Smallest total violation: 4.93e-01, MG radius: 0.5
+198) No feasible point yet! Smallest total violation: 4.93e-01, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 4.93e-01, MG radius: 1.0
+Iteration: 11; Random seed: 951411
+0) No feasible point yet! Smallest total violation: 2.90e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 2.48e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.44e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.29e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.29e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 1.12e+01, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 9.94e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 8.46e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 8.46e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 6.76e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 6.66e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 6.20e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 4.20e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 3.72e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 2.87e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 2.87e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.69e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 2.54e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 2.54e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 2.15e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.37e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.37e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 8.79e-01, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 7.53e-01, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 7.53e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 5.92e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 5.92e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 5.92e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 5.92e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 5.63e-01, MG radius: 0.5
+30) No feasible point yet! Smallest total violation: 4.17e-01, MG radius: 0.5
+31) No feasible point yet! Smallest total violation: 4.17e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 4.17e-01, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 4.17e-01, MG radius: 1.0
+34) Best value: 2.09e+00, MG radius: 0.5
+35) Best value: 2.09e+00, MG radius: 0.5
+36) Best value: 2.09e+00, MG radius: 0.5
+37) Best value: 2.09e+00, MG radius: 0.5
+38) Best value: 2.19e+00, MG radius: 0.5
+39) Best value: 2.19e+00, MG radius: 1.0
+40) Best value: 2.19e+00, MG radius: 1.0
+41) Best value: 2.19e+00, MG radius: 1.0
+42) Best value: 2.19e+00, MG radius: 0.5
+43) Best value: 2.19e+00, MG radius: 0.5
+44) Best value: 2.19e+00, MG radius: 0.5
+45) Best value: 2.19e+00, MG radius: 0.25
+46) Best value: 2.19e+00, MG radius: 0.25
+47) Best value: 2.21e+00, MG radius: 0.25
+48) Best value: 2.21e+00, MG radius: 0.25
+49) Best value: 2.21e+00, MG radius: 0.25
+50) Best value: 2.21e+00, MG radius: 0.25
+51) Best value: 2.21e+00, MG radius: 0.125
+52) Best value: 2.21e+00, MG radius: 0.125
+53) Best value: 2.21e+00, MG radius: 0.125
+54) Best value: 2.21e+00, MG radius: 0.0625
+55) Best value: 2.21e+00, MG radius: 0.0625
+56) Best value: 2.21e+00, MG radius: 0.0625
+57) Best value: 2.21e+00, MG radius: 0.03125
+58) Best value: 2.21e+00, MG radius: 0.03125
+59) Best value: 2.25e+00, MG radius: 0.03125
+60) Best value: 2.25e+00, MG radius: 0.03125
+61) Best value: 2.25e+00, MG radius: 0.03125
+62) Best value: 2.25e+00, MG radius: 0.03125
+63) Best value: 2.27e+00, MG radius: 0.015625
+64) Best value: 2.27e+00, MG radius: 0.015625
+65) Best value: 2.27e+00, MG radius: 0.03125
+66) Best value: 2.29e+00, MG radius: 0.03125
+67) Best value: 2.29e+00, MG radius: 0.03125
+68) Best value: 2.29e+00, MG radius: 0.03125
+69) Best value: 2.29e+00, MG radius: 0.03125
+70) Best value: 2.29e+00, MG radius: 0.015625
+71) Best value: 2.29e+00, MG radius: 0.015625
+72) Best value: 2.29e+00, MG radius: 0.015625
+73) Best value: 2.29e+00, MG radius: 0.0078125
+74) Best value: 2.31e+00, MG radius: 0.0078125
+75) Best value: 2.32e+00, MG radius: 0.0078125
+76) Best value: 2.32e+00, MG radius: 0.015625
+77) Best value: 2.33e+00, MG radius: 0.015625
+78) Best value: 2.33e+00, MG radius: 0.015625
+79) Best value: 2.35e+00, MG radius: 0.015625
+80) Best value: 2.35e+00, MG radius: 0.015625
+81) Best value: 2.35e+00, MG radius: 0.015625
+82) Best value: 2.35e+00, MG radius: 0.015625
+83) Best value: 2.35e+00, MG radius: 0.015625
+84) Best value: 2.36e+00, MG radius: 0.015625
+85) Best value: 2.36e+00, MG radius: 0.015625
+86) Best value: 2.36e+00, MG radius: 0.015625
+87) Best value: 2.36e+00, MG radius: 0.015625
+88) Best value: 2.38e+00, MG radius: 0.0078125
+89) Best value: 2.38e+00, MG radius: 0.0078125
+90) Best value: 2.38e+00, MG radius: 0.015625
+91) Best value: 2.38e+00, MG radius: 0.015625
+92) Best value: 2.38e+00, MG radius: 0.015625
+93) Best value: 2.39e+00, MG radius: 0.0078125
+94) Best value: 2.39e+00, MG radius: 0.0078125
+95) Best value: 2.39e+00, MG radius: 0.0078125
+96) Best value: 2.39e+00, MG radius: 0.0078125
+97) Best value: 2.39e+00, MG radius: 0.0078125
+98) Best value: 2.39e+00, MG radius: 0.015625
+99) Best value: 2.39e+00, MG radius: 0.015625
+100) Best value: 2.39e+00, MG radius: 0.015625
+101) Best value: 2.39e+00, MG radius: 0.0078125
+102) Best value: 2.39e+00, MG radius: 0.0078125
+103) Best value: 2.39e+00, MG radius: 0.0078125
+104) Best value: 2.39e+00, MG radius: 0.0078125
+105) No feasible point yet! Smallest total violation: 3.90e+01, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 1.42e+01, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 1.14e+01, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 9.70e+00, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 8.37e+00, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 8.37e+00, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 8.37e+00, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 8.37e+00, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 6.38e+00, MG radius: 0.5
+115) No feasible point yet! Smallest total violation: 6.38e+00, MG radius: 0.5
+116) No feasible point yet! Smallest total violation: 4.57e+00, MG radius: 0.5
+117) No feasible point yet! Smallest total violation: 4.57e+00, MG radius: 0.5
+118) No feasible point yet! Smallest total violation: 2.94e+00, MG radius: 0.5
+119) No feasible point yet! Smallest total violation: 2.94e+00, MG radius: 0.5
+120) No feasible point yet! Smallest total violation: 2.47e+00, MG radius: 0.5
+121) No feasible point yet! Smallest total violation: 2.23e+00, MG radius: 0.5
+122) No feasible point yet! Smallest total violation: 1.99e+00, MG radius: 1.0
+123) No feasible point yet! Smallest total violation: 1.48e+00, MG radius: 1.0
+124) No feasible point yet! Smallest total violation: 1.48e+00, MG radius: 1.0
+125) No feasible point yet! Smallest total violation: 1.48e+00, MG radius: 1.0
+126) No feasible point yet! Smallest total violation: 1.02e+00, MG radius: 1.0
+127) No feasible point yet! Smallest total violation: 1.02e+00, MG radius: 1.0
+128) No feasible point yet! Smallest total violation: 6.22e-01, MG radius: 1.0
+129) No feasible point yet! Smallest total violation: 6.22e-01, MG radius: 1.0
+130) No feasible point yet! Smallest total violation: 6.04e-01, MG radius: 1.0
+131) No feasible point yet! Smallest total violation: 6.04e-01, MG radius: 1.0
+132) No feasible point yet! Smallest total violation: 6.04e-01, MG radius: 1.0
+133) No feasible point yet! Smallest total violation: 5.37e-01, MG radius: 1.0
+134) No feasible point yet! Smallest total violation: 5.37e-01, MG radius: 1.0
+135) No feasible point yet! Smallest total violation: 5.37e-01, MG radius: 1.0
+136) No feasible point yet! Smallest total violation: 4.81e-01, MG radius: 1.0
+137) No feasible point yet! Smallest total violation: 4.81e-01, MG radius: 1.0
+138) No feasible point yet! Smallest total violation: 4.81e-01, MG radius: 1.0
+139) No feasible point yet! Smallest total violation: 4.81e-01, MG radius: 1.0
+140) No feasible point yet! Smallest total violation: 1.07e-01, MG radius: 0.5
+141) Best value: 1.94e+00, MG radius: 0.5
+142) Best value: 1.94e+00, MG radius: 1.0
+143) Best value: 1.94e+00, MG radius: 1.0
+144) Best value: 1.94e+00, MG radius: 1.0
+145) Best value: 2.16e+00, MG radius: 0.5
+146) Best value: 2.16e+00, MG radius: 0.5
+147) Best value: 2.16e+00, MG radius: 0.5
+148) Best value: 2.16e+00, MG radius: 0.5
+149) Best value: 2.16e+00, MG radius: 0.25
+150) Best value: 2.18e+00, MG radius: 0.25
+151) Best value: 2.18e+00, MG radius: 0.25
+152) Best value: 2.20e+00, MG radius: 0.25
+153) Best value: 2.26e+00, MG radius: 0.25
+154) Best value: 2.26e+00, MG radius: 0.5
+155) Best value: 2.26e+00, MG radius: 0.5
+156) Best value: 2.26e+00, MG radius: 0.5
+157) Best value: 2.26e+00, MG radius: 0.25
+158) Best value: 2.26e+00, MG radius: 0.25
+159) Best value: 2.26e+00, MG radius: 0.25
+160) Best value: 2.26e+00, MG radius: 0.125
+161) Best value: 2.26e+00, MG radius: 0.125
+162) Best value: 2.26e+00, MG radius: 0.125
+163) Best value: 2.26e+00, MG radius: 0.0625
+164) Best value: 2.26e+00, MG radius: 0.0625
+165) Best value: 2.26e+00, MG radius: 0.0625
+166) Best value: 2.26e+00, MG radius: 0.03125
+167) Best value: 2.26e+00, MG radius: 0.03125
+168) Best value: 2.26e+00, MG radius: 0.03125
+169) Best value: 2.26e+00, MG radius: 0.015625
+170) Best value: 2.26e+00, MG radius: 0.015625
+171) Best value: 2.31e+00, MG radius: 0.015625
+172) Best value: 2.31e+00, MG radius: 0.015625
+173) Best value: 2.31e+00, MG radius: 0.015625
+174) Best value: 2.31e+00, MG radius: 0.015625
+175) Best value: 2.32e+00, MG radius: 0.0078125
+176) Best value: 2.34e+00, MG radius: 0.0078125
+177) Best value: 2.34e+00, MG radius: 0.015625
+178) Best value: 2.34e+00, MG radius: 0.015625
+179) Best value: 2.34e+00, MG radius: 0.015625
+180) Best value: 2.37e+00, MG radius: 0.0078125
+181) Best value: 2.37e+00, MG radius: 0.0078125
+182) Best value: 2.37e+00, MG radius: 0.0078125
+183) Best value: 2.37e+00, MG radius: 0.0078125
+184) No feasible point yet! Smallest total violation: 3.77e+01, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 2.19e+01, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 9.46e+00, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 9.46e+00, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 9.26e+00, MG radius: 1.0
+190) No feasible point yet! Smallest total violation: 8.77e+00, MG radius: 1.0
+191) No feasible point yet! Smallest total violation: 8.46e+00, MG radius: 1.0
+192) No feasible point yet! Smallest total violation: 7.82e+00, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 7.28e+00, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 6.09e+00, MG radius: 1.0
+195) No feasible point yet! Smallest total violation: 5.84e+00, MG radius: 1.0
+196) No feasible point yet! Smallest total violation: 3.86e+00, MG radius: 1.0
+197) No feasible point yet! Smallest total violation: 2.11e+00, MG radius: 1.0
+198) No feasible point yet! Smallest total violation: 2.04e+00, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 2.04e+00, MG radius: 1.0
+Iteration: 12; Random seed: 740857
+0) No feasible point yet! Smallest total violation: 3.40e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.85e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.35e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.25e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 1.23e+01, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 1.06e+01, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 7.77e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 6.51e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 6.51e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 5.02e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 5.02e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 4.99e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 3.74e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 2.38e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 2.38e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.25e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 9.79e-01, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 9.79e-01, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 9.79e-01, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 9.79e-01, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 7.83e-01, MG radius: 0.5
+22) No feasible point yet! Smallest total violation: 7.83e-01, MG radius: 0.5
+23) No feasible point yet! Smallest total violation: 7.83e-01, MG radius: 0.5
+24) No feasible point yet! Smallest total violation: 4.78e-01, MG radius: 0.5
+25) No feasible point yet! Smallest total violation: 4.78e-01, MG radius: 0.5
+26) No feasible point yet! Smallest total violation: 1.19e-01, MG radius: 0.5
+27) No feasible point yet! Smallest total violation: 7.33e-02, MG radius: 0.5
+28) No feasible point yet! Smallest total violation: 7.33e-02, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 7.33e-02, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 7.33e-02, MG radius: 1.0
+31) Best value: 1.93e+00, MG radius: 0.5
+32) Best value: 1.93e+00, MG radius: 0.5
+33) Best value: 2.15e+00, MG radius: 0.5
+34) Best value: 2.15e+00, MG radius: 0.5
+35) Best value: 2.15e+00, MG radius: 0.5
+36) Best value: 2.15e+00, MG radius: 0.5
+37) Best value: 2.15e+00, MG radius: 0.5
+38) Best value: 2.15e+00, MG radius: 0.5
+39) Best value: 2.15e+00, MG radius: 0.5
+40) Best value: 2.23e+00, MG radius: 0.25
+41) Best value: 2.23e+00, MG radius: 0.25
+42) Best value: 2.23e+00, MG radius: 0.25
+43) Best value: 2.23e+00, MG radius: 0.25
+44) Best value: 2.23e+00, MG radius: 0.125
+45) Best value: 2.23e+00, MG radius: 0.125
+46) Best value: 2.23e+00, MG radius: 0.125
+47) Best value: 2.23e+00, MG radius: 0.0625
+48) Best value: 2.23e+00, MG radius: 0.0625
+49) Best value: 2.23e+00, MG radius: 0.0625
+50) Best value: 2.23e+00, MG radius: 0.03125
+51) Best value: 2.24e+00, MG radius: 0.03125
+52) Best value: 2.24e+00, MG radius: 0.03125
+53) Best value: 2.24e+00, MG radius: 0.03125
+54) Best value: 2.24e+00, MG radius: 0.03125
+55) Best value: 2.27e+00, MG radius: 0.015625
+56) Best value: 2.27e+00, MG radius: 0.015625
+57) Best value: 2.27e+00, MG radius: 0.015625
+58) Best value: 2.33e+00, MG radius: 0.015625
+59) Best value: 2.33e+00, MG radius: 0.015625
+60) Best value: 2.33e+00, MG radius: 0.015625
+61) Best value: 2.33e+00, MG radius: 0.015625
+62) Best value: 2.35e+00, MG radius: 0.0078125
+63) Best value: 2.35e+00, MG radius: 0.0078125
+64) Best value: 2.35e+00, MG radius: 0.015625
+65) Best value: 2.35e+00, MG radius: 0.015625
+66) Best value: 2.35e+00, MG radius: 0.015625
+67) Best value: 2.36e+00, MG radius: 0.0078125
+68) Best value: 2.37e+00, MG radius: 0.0078125
+69) Best value: 2.37e+00, MG radius: 0.015625
+70) Best value: 2.37e+00, MG radius: 0.015625
+71) Best value: 2.37e+00, MG radius: 0.015625
+72) Best value: 2.37e+00, MG radius: 0.0078125
+73) Best value: 2.37e+00, MG radius: 0.0078125
+74) Best value: 2.37e+00, MG radius: 0.0078125
+75) Best value: 2.38e+00, MG radius: 0.0078125
+76) Best value: 2.38e+00, MG radius: 0.0078125
+77) Best value: 2.38e+00, MG radius: 0.0078125
+78) Best value: 2.38e+00, MG radius: 0.0078125
+79) Best value: 2.38e+00, MG radius: 0.0078125
+80) Best value: 2.38e+00, MG radius: 0.0078125
+81) No feasible point yet! Smallest total violation: 3.76e+01, MG radius: 1.0
+82) No feasible point yet! Smallest total violation: 3.61e+01, MG radius: 1.0
+83) No feasible point yet! Smallest total violation: 2.57e+01, MG radius: 1.0
+84) No feasible point yet! Smallest total violation: 1.56e+01, MG radius: 1.0
+85) No feasible point yet! Smallest total violation: 1.42e+01, MG radius: 1.0
+86) No feasible point yet! Smallest total violation: 1.39e+01, MG radius: 1.0
+87) No feasible point yet! Smallest total violation: 9.10e+00, MG radius: 1.0
+88) No feasible point yet! Smallest total violation: 8.23e+00, MG radius: 1.0
+89) No feasible point yet! Smallest total violation: 7.58e+00, MG radius: 1.0
+90) No feasible point yet! Smallest total violation: 7.58e+00, MG radius: 1.0
+91) No feasible point yet! Smallest total violation: 6.65e+00, MG radius: 1.0
+92) No feasible point yet! Smallest total violation: 6.65e+00, MG radius: 1.0
+93) No feasible point yet! Smallest total violation: 6.27e+00, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 5.38e+00, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 5.03e+00, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 5.03e+00, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 2.98e+00, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 2.98e+00, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 2.34e+00, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 2.04e+00, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 1.38e+00, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 1.21e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 1.21e+00, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 1.21e+00, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 9.26e-01, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 9.26e-01, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 9.26e-01, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 6.62e-01, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 4.80e-01, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 4.80e-01, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 4.80e-01, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 4.80e-01, MG radius: 1.0
+113) Best value: 1.90e+00, MG radius: 0.5
+114) Best value: 1.90e+00, MG radius: 0.5
+115) Best value: 1.90e+00, MG radius: 0.5
+116) Best value: 2.13e+00, MG radius: 0.5
+117) Best value: 2.13e+00, MG radius: 0.5
+118) Best value: 2.13e+00, MG radius: 0.5
+119) Best value: 2.13e+00, MG radius: 0.5
+120) Best value: 2.16e+00, MG radius: 0.25
+121) Best value: 2.22e+00, MG radius: 0.25
+122) Best value: 2.22e+00, MG radius: 0.5
+123) Best value: 2.22e+00, MG radius: 0.5
+124) Best value: 2.22e+00, MG radius: 0.5
+125) Best value: 2.22e+00, MG radius: 0.25
+126) Best value: 2.22e+00, MG radius: 0.25
+127) Best value: 2.22e+00, MG radius: 0.25
+128) Best value: 2.22e+00, MG radius: 0.125
+129) Best value: 2.22e+00, MG radius: 0.125
+130) Best value: 2.22e+00, MG radius: 0.125
+131) Best value: 2.29e+00, MG radius: 0.0625
+132) Best value: 2.29e+00, MG radius: 0.0625
+133) Best value: 2.29e+00, MG radius: 0.0625
+134) Best value: 2.29e+00, MG radius: 0.0625
+135) Best value: 2.29e+00, MG radius: 0.03125
+136) Best value: 2.29e+00, MG radius: 0.03125
+137) Best value: 2.29e+00, MG radius: 0.03125
+138) Best value: 2.29e+00, MG radius: 0.015625
+139) Best value: 2.29e+00, MG radius: 0.015625
+140) Best value: 2.29e+00, MG radius: 0.015625
+141) Best value: 2.29e+00, MG radius: 0.0078125
+142) Best value: 2.29e+00, MG radius: 0.0078125
+143) Best value: 2.30e+00, MG radius: 0.0078125
+144) Best value: 2.32e+00, MG radius: 0.0078125
+145) Best value: 2.32e+00, MG radius: 0.015625
+146) Best value: 2.32e+00, MG radius: 0.015625
+147) Best value: 2.32e+00, MG radius: 0.015625
+148) Best value: 2.32e+00, MG radius: 0.015625
+149) Best value: 2.34e+00, MG radius: 0.0078125
+150) Best value: 2.34e+00, MG radius: 0.0078125
+151) Best value: 2.34e+00, MG radius: 0.0078125
+152) Best value: 2.34e+00, MG radius: 0.0078125
+153) No feasible point yet! Smallest total violation: 2.35e+01, MG radius: 1.0
+154) No feasible point yet! Smallest total violation: 1.78e+01, MG radius: 1.0
+155) No feasible point yet! Smallest total violation: 1.29e+01, MG radius: 1.0
+156) No feasible point yet! Smallest total violation: 1.20e+01, MG radius: 1.0
+157) No feasible point yet! Smallest total violation: 9.12e+00, MG radius: 1.0
+158) No feasible point yet! Smallest total violation: 9.12e+00, MG radius: 1.0
+159) No feasible point yet! Smallest total violation: 8.90e+00, MG radius: 1.0
+160) No feasible point yet! Smallest total violation: 8.28e+00, MG radius: 1.0
+161) No feasible point yet! Smallest total violation: 6.29e+00, MG radius: 1.0
+162) No feasible point yet! Smallest total violation: 6.29e+00, MG radius: 1.0
+163) No feasible point yet! Smallest total violation: 6.29e+00, MG radius: 1.0
+164) No feasible point yet! Smallest total violation: 4.43e+00, MG radius: 1.0
+165) No feasible point yet! Smallest total violation: 3.71e+00, MG radius: 1.0
+166) No feasible point yet! Smallest total violation: 3.71e+00, MG radius: 1.0
+167) No feasible point yet! Smallest total violation: 2.39e+00, MG radius: 1.0
+168) No feasible point yet! Smallest total violation: 2.39e+00, MG radius: 1.0
+169) No feasible point yet! Smallest total violation: 2.22e+00, MG radius: 1.0
+170) No feasible point yet! Smallest total violation: 1.28e+00, MG radius: 1.0
+171) No feasible point yet! Smallest total violation: 1.27e+00, MG radius: 1.0
+172) No feasible point yet! Smallest total violation: 1.27e+00, MG radius: 1.0
+173) No feasible point yet! Smallest total violation: 1.27e+00, MG radius: 1.0
+174) No feasible point yet! Smallest total violation: 1.27e+00, MG radius: 1.0
+175) No feasible point yet! Smallest total violation: 1.07e+00, MG radius: 0.5
+176) No feasible point yet! Smallest total violation: 1.07e+00, MG radius: 0.5
+177) No feasible point yet! Smallest total violation: 7.87e-01, MG radius: 0.5
+178) No feasible point yet! Smallest total violation: 3.23e-01, MG radius: 0.5
+179) No feasible point yet! Smallest total violation: 3.23e-01, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 3.23e-01, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 3.23e-01, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 8.57e-02, MG radius: 0.5
+183) No feasible point yet! Smallest total violation: 7.55e-02, MG radius: 0.5
+184) No feasible point yet! Smallest total violation: 7.55e-02, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 7.55e-02, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 7.55e-02, MG radius: 1.0
+187) Best value: 2.22e+00, MG radius: 0.5
+188) Best value: 2.22e+00, MG radius: 0.5
+189) Best value: 2.22e+00, MG radius: 0.5
+190) Best value: 2.22e+00, MG radius: 0.5
+191) Best value: 2.22e+00, MG radius: 0.25
+192) Best value: 2.22e+00, MG radius: 0.25
+193) Best value: 2.22e+00, MG radius: 0.25
+194) Best value: 2.24e+00, MG radius: 0.125
+195) Best value: 2.24e+00, MG radius: 0.125
+196) Best value: 2.24e+00, MG radius: 0.125
+197) Best value: 2.24e+00, MG radius: 0.125
+198) Best value: 2.24e+00, MG radius: 0.0625
+199) Best value: 2.24e+00, MG radius: 0.0625
+Iteration: 13; Random seed: 920328
+0) No feasible point yet! Smallest total violation: 1.97e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.21e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.04e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 8.12e+00, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 7.82e+00, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 7.82e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 6.98e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 6.98e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 6.98e+00, MG radius: 1.0
+9) No feasible point yet! Smallest total violation: 4.96e+00, MG radius: 1.0
+10) No feasible point yet! Smallest total violation: 4.96e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 3.74e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 3.74e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 2.90e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 2.49e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 2.19e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 2.19e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 1.73e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 1.73e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.45e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.45e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.19e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 1.19e+00, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 1.19e+00, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 5.73e-01, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 5.73e-01, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 5.73e-01, MG radius: 1.0
+27) No feasible point yet! Smallest total violation: 5.73e-01, MG radius: 1.0
+28) No feasible point yet! Smallest total violation: 4.39e-01, MG radius: 0.5
+29) No feasible point yet! Smallest total violation: 4.39e-01, MG radius: 0.5
+30) No feasible point yet! Smallest total violation: 8.03e-02, MG radius: 0.5
+31) No feasible point yet! Smallest total violation: 5.36e-02, MG radius: 0.5
+32) No feasible point yet! Smallest total violation: 5.36e-02, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 5.36e-02, MG radius: 1.0
+34) No feasible point yet! Smallest total violation: 5.36e-02, MG radius: 1.0
+35) No feasible point yet! Smallest total violation: 5.36e-02, MG radius: 0.5
+36) No feasible point yet! Smallest total violation: 5.36e-02, MG radius: 0.5
+37) Best value: 2.16e+00, MG radius: 0.5
+38) Best value: 2.16e+00, MG radius: 0.5
+39) Best value: 2.16e+00, MG radius: 0.5
+40) Best value: 2.20e+00, MG radius: 0.5
+41) Best value: 2.20e+00, MG radius: 0.5
+42) Best value: 2.21e+00, MG radius: 0.5
+43) Best value: 2.21e+00, MG radius: 0.5
+44) Best value: 2.21e+00, MG radius: 0.5
+45) Best value: 2.21e+00, MG radius: 0.5
+46) Best value: 2.21e+00, MG radius: 0.25
+47) Best value: 2.21e+00, MG radius: 0.25
+48) Best value: 2.21e+00, MG radius: 0.25
+49) Best value: 2.21e+00, MG radius: 0.125
+50) Best value: 2.21e+00, MG radius: 0.125
+51) Best value: 2.21e+00, MG radius: 0.125
+52) Best value: 2.21e+00, MG radius: 0.0625
+53) Best value: 2.21e+00, MG radius: 0.0625
+54) Best value: 2.21e+00, MG radius: 0.0625
+55) Best value: 2.21e+00, MG radius: 0.03125
+56) Best value: 2.21e+00, MG radius: 0.03125
+57) Best value: 2.21e+00, MG radius: 0.03125
+58) Best value: 2.22e+00, MG radius: 0.015625
+59) Best value: 2.22e+00, MG radius: 0.015625
+60) Best value: 2.22e+00, MG radius: 0.015625
+61) Best value: 2.22e+00, MG radius: 0.015625
+62) Best value: 2.29e+00, MG radius: 0.015625
+63) Best value: 2.29e+00, MG radius: 0.015625
+64) Best value: 2.30e+00, MG radius: 0.015625
+65) Best value: 2.33e+00, MG radius: 0.015625
+66) Best value: 2.33e+00, MG radius: 0.03125
+67) Best value: 2.33e+00, MG radius: 0.03125
+68) Best value: 2.33e+00, MG radius: 0.03125
+69) Best value: 2.33e+00, MG radius: 0.015625
+70) Best value: 2.35e+00, MG radius: 0.015625
+71) Best value: 2.35e+00, MG radius: 0.015625
+72) Best value: 2.35e+00, MG radius: 0.015625
+73) Best value: 2.35e+00, MG radius: 0.015625
+74) Best value: 2.35e+00, MG radius: 0.0078125
+75) Best value: 2.35e+00, MG radius: 0.0078125
+76) Best value: 2.35e+00, MG radius: 0.0078125
+77) Best value: 2.36e+00, MG radius: 0.0078125
+78) Best value: 2.37e+00, MG radius: 0.0078125
+79) Best value: 2.37e+00, MG radius: 0.015625
+80) Best value: 2.37e+00, MG radius: 0.015625
+81) Best value: 2.37e+00, MG radius: 0.015625
+82) Best value: 2.39e+00, MG radius: 0.0078125
+83) Best value: 2.39e+00, MG radius: 0.0078125
+84) Best value: 2.39e+00, MG radius: 0.0078125
+85) Best value: 2.39e+00, MG radius: 0.0078125
+86) Best value: 2.39e+00, MG radius: 0.0078125
+87) Best value: 2.39e+00, MG radius: 0.0078125
+88) No feasible point yet! Smallest total violation: 3.06e+01, MG radius: 1.0
+89) No feasible point yet! Smallest total violation: 1.29e+01, MG radius: 1.0
+90) No feasible point yet! Smallest total violation: 1.02e+01, MG radius: 1.0
+91) No feasible point yet! Smallest total violation: 9.70e+00, MG radius: 1.0
+92) No feasible point yet! Smallest total violation: 9.15e+00, MG radius: 1.0
+93) No feasible point yet! Smallest total violation: 7.57e+00, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 7.57e+00, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 5.50e+00, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 5.50e+00, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 5.12e+00, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 5.12e+00, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 5.12e+00, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 4.28e+00, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 3.40e+00, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 2.45e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 2.08e+00, MG radius: 1.0
+104) No feasible point yet! Smallest total violation: 1.90e+00, MG radius: 1.0
+105) No feasible point yet! Smallest total violation: 1.90e+00, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 1.65e+00, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 8.40e-01, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 8.40e-01, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 8.40e-01, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 7.90e-01, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 7.90e-01, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 7.90e-01, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 7.90e-01, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 2.05e-01, MG radius: 0.5
+115) No feasible point yet! Smallest total violation: 2.05e-01, MG radius: 0.5
+116) No feasible point yet! Smallest total violation: 2.05e-01, MG radius: 0.5
+117) No feasible point yet! Smallest total violation: 1.13e-02, MG radius: 0.5
+118) No feasible point yet! Smallest total violation: 1.13e-02, MG radius: 0.5
+119) No feasible point yet! Smallest total violation: 1.13e-02, MG radius: 0.5
+120) No feasible point yet! Smallest total violation: 1.13e-02, MG radius: 0.5
+121) Best value: 1.91e+00, MG radius: 0.25
+122) Best value: 2.10e+00, MG radius: 0.25
+123) Best value: 2.10e+00, MG radius: 0.5
+124) Best value: 2.10e+00, MG radius: 0.5
+125) Best value: 2.10e+00, MG radius: 0.5
+126) Best value: 2.13e+00, MG radius: 0.25
+127) Best value: 2.14e+00, MG radius: 0.25
+128) Best value: 2.14e+00, MG radius: 0.5
+129) Best value: 2.14e+00, MG radius: 0.5
+130) Best value: 2.14e+00, MG radius: 0.5
+131) Best value: 2.14e+00, MG radius: 0.25
+132) Best value: 2.14e+00, MG radius: 0.25
+133) Best value: 2.14e+00, MG radius: 0.25
+134) Best value: 2.14e+00, MG radius: 0.125
+135) Best value: 2.21e+00, MG radius: 0.125
+136) Best value: 2.21e+00, MG radius: 0.125
+137) Best value: 2.21e+00, MG radius: 0.125
+138) Best value: 2.21e+00, MG radius: 0.125
+139) Best value: 2.21e+00, MG radius: 0.0625
+140) Best value: 2.21e+00, MG radius: 0.0625
+141) Best value: 2.21e+00, MG radius: 0.0625
+142) Best value: 2.25e+00, MG radius: 0.03125
+143) Best value: 2.25e+00, MG radius: 0.03125
+144) Best value: 2.25e+00, MG radius: 0.03125
+145) Best value: 2.25e+00, MG radius: 0.03125
+146) Best value: 2.25e+00, MG radius: 0.015625
+147) Best value: 2.25e+00, MG radius: 0.015625
+148) Best value: 2.29e+00, MG radius: 0.015625
+149) Best value: 2.30e+00, MG radius: 0.015625
+150) Best value: 2.30e+00, MG radius: 0.03125
+151) Best value: 2.30e+00, MG radius: 0.03125
+152) Best value: 2.30e+00, MG radius: 0.03125
+153) Best value: 2.30e+00, MG radius: 0.015625
+154) Best value: 2.30e+00, MG radius: 0.015625
+155) Best value: 2.30e+00, MG radius: 0.015625
+156) Best value: 2.32e+00, MG radius: 0.0078125
+157) Best value: 2.32e+00, MG radius: 0.0078125
+158) Best value: 2.33e+00, MG radius: 0.015625
+159) Best value: 2.33e+00, MG radius: 0.015625
+160) Best value: 2.33e+00, MG radius: 0.015625
+161) Best value: 2.33e+00, MG radius: 0.015625
+162) Best value: 2.35e+00, MG radius: 0.0078125
+163) Best value: 2.35e+00, MG radius: 0.0078125
+164) Best value: 2.37e+00, MG radius: 0.0078125
+165) Best value: 2.37e+00, MG radius: 0.0078125
+166) Best value: 2.37e+00, MG radius: 0.0078125
+167) Best value: 2.38e+00, MG radius: 0.0078125
+168) Best value: 2.38e+00, MG radius: 0.015625
+169) Best value: 2.38e+00, MG radius: 0.015625
+170) Best value: 2.38e+00, MG radius: 0.015625
+171) Best value: 2.38e+00, MG radius: 0.0078125
+172) Best value: 2.38e+00, MG radius: 0.0078125
+173) Best value: 2.38e+00, MG radius: 0.0078125
+174) Best value: 2.39e+00, MG radius: 0.0078125
+175) Best value: 2.39e+00, MG radius: 0.0078125
+176) Best value: 2.39e+00, MG radius: 0.0078125
+177) Best value: 2.39e+00, MG radius: 0.0078125
+178) No feasible point yet! Smallest total violation: 2.10e+01, MG radius: 1.0
+179) No feasible point yet! Smallest total violation: 1.20e+01, MG radius: 1.0
+180) No feasible point yet! Smallest total violation: 1.08e+01, MG radius: 1.0
+181) No feasible point yet! Smallest total violation: 1.08e+01, MG radius: 1.0
+182) No feasible point yet! Smallest total violation: 1.08e+01, MG radius: 1.0
+183) No feasible point yet! Smallest total violation: 1.08e+01, MG radius: 1.0
+184) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 0.5
+185) No feasible point yet! Smallest total violation: 1.00e+01, MG radius: 0.5
+186) No feasible point yet! Smallest total violation: 9.51e+00, MG radius: 0.5
+187) No feasible point yet! Smallest total violation: 8.37e+00, MG radius: 0.5
+188) No feasible point yet! Smallest total violation: 8.37e+00, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 8.02e+00, MG radius: 1.0
+190) No feasible point yet! Smallest total violation: 8.02e+00, MG radius: 1.0
+191) No feasible point yet! Smallest total violation: 6.43e+00, MG radius: 1.0
+192) No feasible point yet! Smallest total violation: 5.00e+00, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 3.90e+00, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 3.82e+00, MG radius: 1.0
+195) No feasible point yet! Smallest total violation: 3.00e+00, MG radius: 1.0
+196) No feasible point yet! Smallest total violation: 2.78e+00, MG radius: 1.0
+197) No feasible point yet! Smallest total violation: 2.78e+00, MG radius: 1.0
+198) No feasible point yet! Smallest total violation: 2.42e+00, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 2.09e+00, MG radius: 1.0
+Iteration: 14; Random seed: 440546
+0) No feasible point yet! Smallest total violation: 2.34e+01, MG radius: 1.0
+1) No feasible point yet! Smallest total violation: 1.49e+01, MG radius: 1.0
+2) No feasible point yet! Smallest total violation: 1.30e+01, MG radius: 1.0
+3) No feasible point yet! Smallest total violation: 1.09e+01, MG radius: 1.0
+4) No feasible point yet! Smallest total violation: 9.47e+00, MG radius: 1.0
+5) No feasible point yet! Smallest total violation: 9.47e+00, MG radius: 1.0
+6) No feasible point yet! Smallest total violation: 9.47e+00, MG radius: 1.0
+7) No feasible point yet! Smallest total violation: 9.47e+00, MG radius: 1.0
+8) No feasible point yet! Smallest total violation: 8.48e+00, MG radius: 0.5
+9) No feasible point yet! Smallest total violation: 7.99e+00, MG radius: 0.5
+10) No feasible point yet! Smallest total violation: 7.94e+00, MG radius: 1.0
+11) No feasible point yet! Smallest total violation: 7.35e+00, MG radius: 1.0
+12) No feasible point yet! Smallest total violation: 7.12e+00, MG radius: 1.0
+13) No feasible point yet! Smallest total violation: 5.32e+00, MG radius: 1.0
+14) No feasible point yet! Smallest total violation: 5.20e+00, MG radius: 1.0
+15) No feasible point yet! Smallest total violation: 3.36e+00, MG radius: 1.0
+16) No feasible point yet! Smallest total violation: 3.36e+00, MG radius: 1.0
+17) No feasible point yet! Smallest total violation: 2.32e+00, MG radius: 1.0
+18) No feasible point yet! Smallest total violation: 2.03e+00, MG radius: 1.0
+19) No feasible point yet! Smallest total violation: 1.64e+00, MG radius: 1.0
+20) No feasible point yet! Smallest total violation: 1.64e+00, MG radius: 1.0
+21) No feasible point yet! Smallest total violation: 1.64e+00, MG radius: 1.0
+22) No feasible point yet! Smallest total violation: 1.12e+00, MG radius: 1.0
+23) No feasible point yet! Smallest total violation: 1.12e+00, MG radius: 1.0
+24) No feasible point yet! Smallest total violation: 1.12e+00, MG radius: 1.0
+25) No feasible point yet! Smallest total violation: 1.12e+00, MG radius: 1.0
+26) No feasible point yet! Smallest total violation: 5.71e-01, MG radius: 0.5
+27) No feasible point yet! Smallest total violation: 3.76e-01, MG radius: 0.5
+28) No feasible point yet! Smallest total violation: 3.76e-01, MG radius: 1.0
+29) No feasible point yet! Smallest total violation: 3.56e-01, MG radius: 1.0
+30) No feasible point yet! Smallest total violation: 3.56e-01, MG radius: 1.0
+31) No feasible point yet! Smallest total violation: 3.56e-01, MG radius: 1.0
+32) No feasible point yet! Smallest total violation: 3.56e-01, MG radius: 1.0
+33) No feasible point yet! Smallest total violation: 1.27e-01, MG radius: 0.5
+34) No feasible point yet! Smallest total violation: 5.31e-02, MG radius: 0.5
+35) No feasible point yet! Smallest total violation: 5.31e-02, MG radius: 1.0
+36) No feasible point yet! Smallest total violation: 5.31e-02, MG radius: 1.0
+37) No feasible point yet! Smallest total violation: 5.31e-02, MG radius: 1.0
+38) Best value: 1.87e+00, MG radius: 0.5
+39) Best value: 1.87e+00, MG radius: 0.5
+40) Best value: 1.87e+00, MG radius: 0.5
+41) Best value: 1.87e+00, MG radius: 0.5
+42) Best value: 2.12e+00, MG radius: 0.25
+43) Best value: 2.23e+00, MG radius: 0.25
+44) Best value: 2.23e+00, MG radius: 0.5
+45) Best value: 2.23e+00, MG radius: 0.5
+46) Best value: 2.23e+00, MG radius: 0.5
+47) Best value: 2.23e+00, MG radius: 0.25
+48) Best value: 2.23e+00, MG radius: 0.25
+49) Best value: 2.23e+00, MG radius: 0.25
+50) Best value: 2.23e+00, MG radius: 0.125
+51) Best value: 2.25e+00, MG radius: 0.125
+52) Best value: 2.25e+00, MG radius: 0.125
+53) Best value: 2.25e+00, MG radius: 0.25
+54) Best value: 2.25e+00, MG radius: 0.25
+55) Best value: 2.25e+00, MG radius: 0.25
+56) Best value: 2.25e+00, MG radius: 0.125
+57) Best value: 2.25e+00, MG radius: 0.125
+58) Best value: 2.25e+00, MG radius: 0.125
+59) Best value: 2.25e+00, MG radius: 0.0625
+60) Best value: 2.25e+00, MG radius: 0.0625
+61) Best value: 2.25e+00, MG radius: 0.0625
+62) Best value: 2.25e+00, MG radius: 0.03125
+63) Best value: 2.25e+00, MG radius: 0.03125
+64) Best value: 2.25e+00, MG radius: 0.03125
+65) Best value: 2.25e+00, MG radius: 0.015625
+66) Best value: 2.30e+00, MG radius: 0.015625
+67) Best value: 2.30e+00, MG radius: 0.015625
+68) Best value: 2.30e+00, MG radius: 0.015625
+69) Best value: 2.30e+00, MG radius: 0.015625
+70) Best value: 2.30e+00, MG radius: 0.0078125
+71) Best value: 2.32e+00, MG radius: 0.0078125
+72) Best value: 2.32e+00, MG radius: 0.015625
+73) Best value: 2.32e+00, MG radius: 0.015625
+74) Best value: 2.33e+00, MG radius: 0.015625
+75) Best value: 2.33e+00, MG radius: 0.015625
+76) Best value: 2.33e+00, MG radius: 0.015625
+77) Best value: 2.33e+00, MG radius: 0.015625
+78) Best value: 2.35e+00, MG radius: 0.015625
+79) Best value: 2.35e+00, MG radius: 0.03125
+80) Best value: 2.35e+00, MG radius: 0.03125
+81) Best value: 2.35e+00, MG radius: 0.03125
+82) Best value: 2.35e+00, MG radius: 0.015625
+83) Best value: 2.35e+00, MG radius: 0.015625
+84) Best value: 2.35e+00, MG radius: 0.015625
+85) Best value: 2.35e+00, MG radius: 0.0078125
+86) Best value: 2.37e+00, MG radius: 0.0078125
+87) Best value: 2.37e+00, MG radius: 0.0078125
+88) Best value: 2.37e+00, MG radius: 0.0078125
+89) Best value: 2.37e+00, MG radius: 0.0078125
+90) No feasible point yet! Smallest total violation: 3.36e+01, MG radius: 1.0
+91) No feasible point yet! Smallest total violation: 3.36e+01, MG radius: 1.0
+92) No feasible point yet! Smallest total violation: 1.12e+01, MG radius: 1.0
+93) No feasible point yet! Smallest total violation: 1.07e+01, MG radius: 1.0
+94) No feasible point yet! Smallest total violation: 1.07e+01, MG radius: 1.0
+95) No feasible point yet! Smallest total violation: 8.72e+00, MG radius: 1.0
+96) No feasible point yet! Smallest total violation: 8.72e+00, MG radius: 1.0
+97) No feasible point yet! Smallest total violation: 5.96e+00, MG radius: 1.0
+98) No feasible point yet! Smallest total violation: 5.96e+00, MG radius: 1.0
+99) No feasible point yet! Smallest total violation: 5.11e+00, MG radius: 1.0
+100) No feasible point yet! Smallest total violation: 5.11e+00, MG radius: 1.0
+101) No feasible point yet! Smallest total violation: 5.11e+00, MG radius: 1.0
+102) No feasible point yet! Smallest total violation: 5.11e+00, MG radius: 1.0
+103) No feasible point yet! Smallest total violation: 3.56e+00, MG radius: 0.5
+104) No feasible point yet! Smallest total violation: 2.30e+00, MG radius: 0.5
+105) No feasible point yet! Smallest total violation: 2.30e+00, MG radius: 1.0
+106) No feasible point yet! Smallest total violation: 2.02e+00, MG radius: 1.0
+107) No feasible point yet! Smallest total violation: 2.02e+00, MG radius: 1.0
+108) No feasible point yet! Smallest total violation: 1.73e+00, MG radius: 1.0
+109) No feasible point yet! Smallest total violation: 1.26e+00, MG radius: 1.0
+110) No feasible point yet! Smallest total violation: 1.26e+00, MG radius: 1.0
+111) No feasible point yet! Smallest total violation: 1.26e+00, MG radius: 1.0
+112) No feasible point yet! Smallest total violation: 1.01e+00, MG radius: 1.0
+113) No feasible point yet! Smallest total violation: 9.53e-01, MG radius: 1.0
+114) No feasible point yet! Smallest total violation: 9.09e-01, MG radius: 1.0
+115) No feasible point yet! Smallest total violation: 9.09e-01, MG radius: 1.0
+116) No feasible point yet! Smallest total violation: 9.09e-01, MG radius: 1.0
+117) No feasible point yet! Smallest total violation: 2.90e-01, MG radius: 1.0
+118) No feasible point yet! Smallest total violation: 2.90e-01, MG radius: 1.0
+119) No feasible point yet! Smallest total violation: 2.90e-01, MG radius: 1.0
+120) No feasible point yet! Smallest total violation: 2.90e-01, MG radius: 1.0
+121) No feasible point yet! Smallest total violation: 2.03e-01, MG radius: 0.5
+122) No feasible point yet! Smallest total violation: 2.00e-01, MG radius: 0.5
+123) No feasible point yet! Smallest total violation: 2.00e-01, MG radius: 1.0
+124) No feasible point yet! Smallest total violation: 2.00e-01, MG radius: 1.0
+125) No feasible point yet! Smallest total violation: 2.00e-01, MG radius: 1.0
+126) Best value: 2.14e+00, MG radius: 0.5
+127) Best value: 2.20e+00, MG radius: 0.5
+128) Best value: 2.20e+00, MG radius: 1.0
+129) Best value: 2.20e+00, MG radius: 1.0
+130) Best value: 2.20e+00, MG radius: 1.0
+131) Best value: 2.20e+00, MG radius: 0.5
+132) Best value: 2.20e+00, MG radius: 0.5
+133) Best value: 2.20e+00, MG radius: 0.5
+134) Best value: 2.20e+00, MG radius: 0.25
+135) Best value: 2.20e+00, MG radius: 0.25
+136) Best value: 2.20e+00, MG radius: 0.25
+137) Best value: 2.20e+00, MG radius: 0.125
+138) Best value: 2.20e+00, MG radius: 0.125
+139) Best value: 2.20e+00, MG radius: 0.125
+140) Best value: 2.20e+00, MG radius: 0.0625
+141) Best value: 2.20e+00, MG radius: 0.0625
+142) Best value: 2.20e+00, MG radius: 0.0625
+143) Best value: 2.20e+00, MG radius: 0.03125
+144) Best value: 2.20e+00, MG radius: 0.03125
+145) Best value: 2.20e+00, MG radius: 0.03125
+146) Best value: 2.20e+00, MG radius: 0.015625
+147) Best value: 2.21e+00, MG radius: 0.015625
+148) Best value: 2.21e+00, MG radius: 0.015625
+149) Best value: 2.26e+00, MG radius: 0.015625
+150) Best value: 2.26e+00, MG radius: 0.015625
+151) Best value: 2.29e+00, MG radius: 0.015625
+152) Best value: 2.29e+00, MG radius: 0.015625
+153) Best value: 2.29e+00, MG radius: 0.015625
+154) Best value: 2.29e+00, MG radius: 0.015625
+155) Best value: 2.29e+00, MG radius: 0.0078125
+156) Best value: 2.30e+00, MG radius: 0.0078125
+157) Best value: 2.30e+00, MG radius: 0.0078125
+158) Best value: 2.30e+00, MG radius: 0.015625
+159) Best value: 2.30e+00, MG radius: 0.015625
+160) Best value: 2.33e+00, MG radius: 0.015625
+161) Best value: 2.33e+00, MG radius: 0.015625
+162) Best value: 2.33e+00, MG radius: 0.015625
+163) Best value: 2.34e+00, MG radius: 0.015625
+164) Best value: 2.34e+00, MG radius: 0.015625
+165) Best value: 2.34e+00, MG radius: 0.015625
+166) Best value: 2.34e+00, MG radius: 0.015625
+167) Best value: 2.34e+00, MG radius: 0.0078125
+168) Best value: 2.35e+00, MG radius: 0.0078125
+169) Best value: 2.35e+00, MG radius: 0.0078125
+170) Best value: 2.35e+00, MG radius: 0.0078125
+171) Best value: 2.35e+00, MG radius: 0.0078125
+172) Best value: 2.35e+00, MG radius: 0.0078125
+173) Best value: 2.35e+00, MG radius: 0.015625
+174) Best value: 2.35e+00, MG radius: 0.015625
+175) Best value: 2.35e+00, MG radius: 0.015625
+176) Best value: 2.35e+00, MG radius: 0.0078125
+177) Best value: 2.35e+00, MG radius: 0.0078125
+178) Best value: 2.36e+00, MG radius: 0.0078125
+179) Best value: 2.36e+00, MG radius: 0.0078125
+180) Best value: 2.36e+00, MG radius: 0.0078125
+181) Best value: 2.36e+00, MG radius: 0.0078125
+182) Best value: 2.36e+00, MG radius: 0.0078125
+183) Best value: 2.36e+00, MG radius: 0.0078125
+184) No feasible point yet! Smallest total violation: 3.04e+01, MG radius: 1.0
+185) No feasible point yet! Smallest total violation: 1.42e+01, MG radius: 1.0
+186) No feasible point yet! Smallest total violation: 1.38e+01, MG radius: 1.0
+187) No feasible point yet! Smallest total violation: 1.31e+01, MG radius: 1.0
+188) No feasible point yet! Smallest total violation: 1.05e+01, MG radius: 1.0
+189) No feasible point yet! Smallest total violation: 1.05e+01, MG radius: 1.0
+190) No feasible point yet! Smallest total violation: 9.51e+00, MG radius: 1.0
+191) No feasible point yet! Smallest total violation: 9.51e+00, MG radius: 1.0
+192) No feasible point yet! Smallest total violation: 8.63e+00, MG radius: 1.0
+193) No feasible point yet! Smallest total violation: 8.35e+00, MG radius: 1.0
+194) No feasible point yet! Smallest total violation: 7.74e+00, MG radius: 1.0
+195) No feasible point yet! Smallest total violation: 5.85e+00, MG radius: 1.0
+196) No feasible point yet! Smallest total violation: 5.58e+00, MG radius: 1.0
+197) No feasible point yet! Smallest total violation: 5.32e+00, MG radius: 1.0
+198) No feasible point yet! Smallest total violation: 3.87e+00, MG radius: 1.0
+199) No feasible point yet! Smallest total violation: 3.87e+00, MG radius: 1.0

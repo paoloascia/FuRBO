@@ -98,6 +98,7 @@ The repository is structured as follows:
 [1]: David Eriksson and Matthias Poloczek. Scalable constrained Bayesian optimization. In International Conference on Artificial Intelligence and Statistics, pages 730–738. PMLR, 2021. doi: [10.48550/arxiv.2002.08526](https://doi.org/10.48550/arxiv.2002.08526).
 
 ## Cite us
+```
 @article{ascia2025feasibility,
   title={Feasibility-Driven Trust Region Bayesian Optimization},
   author={Ascia, Paolo and Raponi, Elena and Bäck, Thomas and Duddeck, Fabian},
@@ -105,4 +106,6 @@ The repository is structured as follows:
   year={2025}
   doi={https://doi.org/10.48550/arXiv.2506.14619}
 }
+```
+
 

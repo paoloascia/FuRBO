@@ -1,4 +1,4 @@
-Feasible trust Region Bayesian Optimization (FuRBO) is a Bayesian optimization for high dimensional and highly constrained problems.
+Feasibility-Driven Trust Region Bayesian Optimization (FuRBO) is a Bayesian optimization for high dimensional and highly constrained problems.
 
 *This repository is intended to showcase the performance of FuRBO and to educate how to use/set up the method in Python*
 
@@ -98,4 +98,11 @@ The repository is structured as follows:
 [1]: David Eriksson and Matthias Poloczek. Scalable constrained Bayesian optimization. In International Conference on Artificial Intelligence and Statistics, pages 730–738. PMLR, 2021. doi: [10.48550/arxiv.2002.08526](https://doi.org/10.48550/arxiv.2002.08526).
 
 ## Cite us
-Coming soon
+@article{ascia2025feasibility,
+  title={Feasibility-Driven Trust Region Bayesian Optimization},
+  author={Ascia, Paolo and Raponi, Elena and Bäck, Thomas and Duddeck, Fabian},
+  journal={arXiv preprint arXiv:2506.14619},
+  year={2025}
+  doi={https://doi.org/10.48550/arXiv.2506.14619}
+}
+
